@@ -1,0 +1,1001 @@
+Âge,Sexe,Revenu_Mensuel,Diplôme,Lieu_de_Vie,Sport,Lecture,Culture,Type_Alimentation,Score_Écologie,Orientation_Politique,Religion,Usage_Réseaux_Sociaux,Achats_en_Ligne,Fréquence_Voyages
+63,Homme,1856,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,2,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+20,Homme,1869,Bac,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,9,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+46,Femme,2905,Bac+5,Grande ville,1-2x/sem,Jamais,1x/an,Équilibré,5,Gauche,Croyant non pratiquant,3h+/j,Jamais,Jamais
+52,Homme,1924,Bac,Banlieue,Rarement,Occasionnel,2-4x/an,Équilibré,6,Apolitique,Pratiquant,1-3h/j,Jamais,2-3x/an
+56,Homme,2264,Bac+5,Banlieue,Jamais,Régulier,1x/an,Industriel,5,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+35,Femme,3214,Bac+2,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,4,Gauche,Pratiquant,3h+/j,1x/sem,1x/an
+37,Femme,1723,Doctorat,Banlieue,Rarement,Régulier,2-4x/an,Équilibré,3,Apolitique,Agnostique,<1h/j,Jamais,1x/an
+60,Homme,1125,Bac,Banlieue,1-2x/sem,Régulier,1x/an,Bio,4,Gauche,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+40,Homme,1340,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Bio,3,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+51,Homme,3142,Bac+2,Banlieue,Jamais,Régulier,2-4x/an,Équilibré,2,Centre,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+50,Femme,2073,Aucun,Campagne,3x+/sem,Occasionnel,2-4x/an,Bio,4,Apolitique,Athée,1-3h/j,1x/sem,4x+/an
+67,Femme,1598,Bac,Banlieue,1-2x/sem,Régulier,2-4x/an,Industriel,7,Centre,Athée,3h+/j,1x/mois,1x/an
+65,Homme,2778,Bac+2,Ville moyenne,Rarement,Occasionnel,1x/an,Bio,1,Apolitique,Athée,<1h/j,2x+/sem,2-3x/an
+27,Homme,2798,Aucun,Banlieue,1-2x/sem,Occasionnel,1x/an,Équilibré,4,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+50,Femme,1619,Bac+5,Grande ville,Jamais,Occasionnel,1x/an,Végétarien,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+64,Femme,1222,Bac+5,Grande ville,Rarement,Occasionnel,Jamais,Industriel,9,Centre,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+50,Femme,743,Bac,Grande ville,Rarement,Régulier,1x/an,Bio,3,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+65,Femme,564,Bac+2,Grande ville,Rarement,Régulier,1x/an,Bio,4,Apolitique,Pratiquant,<1h/j,2x+/sem,1x/an
+43,Homme,1788,Bac+2,Banlieue,Rarement,Jamais,1x/an,Végétarien,6,Droite,Agnostique,1-3h/j,1x/sem,2-3x/an
+37,Femme,1285,Bac,Grande ville,Jamais,Occasionnel,1x/an,Industriel,10,Apolitique,Agnostique,Jamais,1x/mois,Jamais
+32,Homme,3486,Bac+5,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Végétarien,1,Centre,Pratiquant,<1h/j,1x/mois,2-3x/an
+54,Femme,2046,Bac,Grande ville,3x+/sem,Jamais,1x/an,Industriel,7,Apolitique,Agnostique,1-3h/j,Jamais,2-3x/an
+50,Femme,500,Bac+5,Ville moyenne,3x+/sem,Jamais,2-4x/an,Industriel,8,Centre,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+34,Homme,3134,Bac+2,Banlieue,Rarement,Régulier,1x/mois ou +,Industriel,1,Droite,Agnostique,<1h/j,1x/mois,1x/an
+22,Femme,2129,Bac+2,Campagne,1-2x/sem,Régulier,1x/an,Industriel,7,Droite,Agnostique,3h+/j,2x+/sem,Jamais
+67,Femme,2563,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,3,Centre,Croyant non pratiquant,Jamais,1x/mois,Jamais
+21,Femme,2545,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Équilibré,7,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+20,Femme,2237,Bac+2,Campagne,Rarement,Jamais,1x/mois ou +,Équilibré,10,Centre,Agnostique,Jamais,1x/sem,4x+/an
+38,Homme,2418,Bac+5,Campagne,Jamais,Occasionnel,2-4x/an,Bio,5,Droite,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+57,Homme,2191,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,10,Droite,Athée,Jamais,1x/sem,1x/an
+20,Femme,1114,Aucun,Banlieue,Rarement,Jamais,1x/mois ou +,Bio,6,Gauche,Athée,3h+/j,2x+/sem,Jamais
+38,Femme,2293,Bac+2,Banlieue,Rarement,Jamais,2-4x/an,Équilibré,4,Apolitique,Athée,3h+/j,2x+/sem,2-3x/an
+65,Homme,2819,Aucun,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Bio,5,Apolitique,Pratiquant,3h+/j,2x+/sem,1x/an
+66,Homme,1831,Bac+2,Campagne,3x+/sem,Occasionnel,2-4x/an,Industriel,9,Centre,Athée,Jamais,2x+/sem,2-3x/an
+25,Homme,2441,Bac,Campagne,1-2x/sem,Régulier,2-4x/an,Bio,7,Apolitique,Pratiquant,<1h/j,1x/mois,1x/an
+59,Homme,2335,Bac+2,Banlieue,Jamais,Jamais,2-4x/an,Végétarien,6,Droite,Pratiquant,1-3h/j,Jamais,1x/an
+53,Homme,3452,Bac+5,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,10,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+46,Femme,1797,Bac+5,Campagne,Rarement,Occasionnel,2-4x/an,Bio,1,Gauche,Athée,1-3h/j,1x/mois,4x+/an
+56,Homme,1766,Bac+2,Grande ville,Rarement,Jamais,1x/mois ou +,Industriel,5,Gauche,Pratiquant,3h+/j,1x/mois,1x/an
+51,Homme,1906,Doctorat,Grande ville,1-2x/sem,Occasionnel,Jamais,Industriel,1,Apolitique,Agnostique,1-3h/j,1x/sem,2-3x/an
+39,Femme,1918,Bac+2,Ville moyenne,Jamais,Régulier,1x/mois ou +,Bio,6,Centre,Agnostique,<1h/j,Jamais,2-3x/an
+48,Femme,500,Aucun,Ville moyenne,Jamais,Occasionnel,2-4x/an,Industriel,9,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+45,Femme,1485,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Végétarien,1,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+52,Femme,2239,Bac+2,Banlieue,3x+/sem,Occasionnel,2-4x/an,Végétarien,10,Droite,Croyant non pratiquant,Jamais,1x/sem,1x/an
+51,Homme,1993,Bac+2,Grande ville,Jamais,Jamais,1x/mois ou +,Bio,7,Apolitique,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+30,Homme,1360,Bac+5,Ville moyenne,Jamais,Occasionnel,1x/an,Équilibré,10,Centre,Agnostique,1-3h/j,1x/sem,2-3x/an
+58,Femme,1468,Bac,Ville moyenne,Jamais,Occasionnel,2-4x/an,Bio,7,Centre,Croyant non pratiquant,1-3h/j,2x+/sem,Jamais
+21,Homme,1715,Bac,Grande ville,Rarement,Jamais,Jamais,Végétarien,5,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+60,Homme,1358,Aucun,Banlieue,Rarement,Régulier,2-4x/an,Industriel,9,Droite,Athée,<1h/j,1x/mois,4x+/an
+23,Femme,1589,Bac+5,Ville moyenne,Rarement,Jamais,2-4x/an,Industriel,3,Droite,Agnostique,3h+/j,Jamais,4x+/an
+18,Femme,1568,Bac,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Végétarien,3,Droite,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+29,Femme,2716,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Industriel,5,Apolitique,Agnostique,Jamais,1x/sem,2-3x/an
+52,Femme,2813,Bac+2,Grande ville,Rarement,Occasionnel,1x/mois ou +,Bio,8,Gauche,Agnostique,<1h/j,Jamais,2-3x/an
+28,Homme,2746,Doctorat,Banlieue,1-2x/sem,Jamais,2-4x/an,Équilibré,7,Gauche,Pratiquant,Jamais,1x/mois,1x/an
+40,Femme,2341,Aucun,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Équilibré,5,Gauche,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+31,Homme,1433,Doctorat,Ville moyenne,3x+/sem,Occasionnel,1x/an,Équilibré,4,Droite,Pratiquant,1-3h/j,1x/mois,2-3x/an
+36,Femme,2767,Bac+2,Ville moyenne,Rarement,Occasionnel,1x/an,Équilibré,7,Centre,Athée,1-3h/j,1x/sem,Jamais
+54,Femme,1748,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Équilibré,8,Centre,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+33,Homme,2018,Bac+2,Grande ville,3x+/sem,Régulier,1x/an,Végétarien,3,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+61,Femme,3070,Bac+2,Grande ville,1-2x/sem,Jamais,2-4x/an,Équilibré,4,Droite,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+45,Homme,2067,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Industriel,7,Apolitique,Pratiquant,3h+/j,Jamais,1x/an
+62,Femme,2197,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/an,Équilibré,6,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+48,Homme,869,Bac,Grande ville,1-2x/sem,Régulier,1x/mois ou +,Bio,6,Gauche,Athée,<1h/j,1x/sem,1x/an
+24,Homme,2389,Doctorat,Ville moyenne,Jamais,Jamais,1x/an,Industriel,5,Apolitique,Agnostique,Jamais,1x/mois,Jamais
+63,Homme,1215,Bac+5,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,8,Gauche,Pratiquant,3h+/j,1x/mois,1x/an
+69,Homme,2809,Bac+2,Ville moyenne,Rarement,Jamais,2-4x/an,Industriel,3,Droite,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+44,Homme,1852,Aucun,Banlieue,Jamais,Occasionnel,2-4x/an,Équilibré,5,Droite,Pratiquant,<1h/j,1x/mois,2-3x/an
+34,Homme,500,Bac+5,Campagne,Jamais,Occasionnel,1x/an,Industriel,9,Apolitique,Croyant non pratiquant,<1h/j,Jamais,2-3x/an
+24,Homme,1713,Aucun,Ville moyenne,1-2x/sem,Régulier,Jamais,Équilibré,7,Apolitique,Athée,3h+/j,1x/mois,1x/an
+32,Femme,1817,Bac+5,Banlieue,Jamais,Jamais,1x/mois ou +,Équilibré,8,Apolitique,Athée,<1h/j,1x/sem,2-3x/an
+57,Homme,2388,Aucun,Grande ville,Rarement,Jamais,2-4x/an,Industriel,1,Apolitique,Pratiquant,<1h/j,1x/mois,1x/an
+29,Homme,2536,Bac+5,Grande ville,3x+/sem,Régulier,1x/an,Équilibré,6,Gauche,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+25,Homme,1737,Bac+5,Ville moyenne,Jamais,Occasionnel,Jamais,Bio,8,Apolitique,Pratiquant,<1h/j,1x/sem,Jamais
+19,Femme,2810,Bac+2,Ville moyenne,1-2x/sem,Jamais,1x/mois ou +,Industriel,3,Gauche,Croyant non pratiquant,<1h/j,1x/sem,4x+/an
+61,Homme,500,Bac+2,Grande ville,Jamais,Régulier,1x/an,Équilibré,1,Apolitique,Agnostique,Jamais,1x/sem,2-3x/an
+55,Homme,1428,Bac+5,Ville moyenne,Rarement,Régulier,1x/an,Bio,6,Gauche,Agnostique,<1h/j,Jamais,2-3x/an
+43,Femme,1110,Doctorat,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,2,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+68,Homme,996,Aucun,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,6,Gauche,Athée,Jamais,Jamais,1x/an
+38,Homme,2767,Bac,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,7,Apolitique,Agnostique,3h+/j,1x/sem,4x+/an
+67,Homme,2663,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/an,Bio,5,Droite,Pratiquant,1-3h/j,1x/mois,Jamais
+30,Femme,1379,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Bio,10,Droite,Agnostique,1-3h/j,Jamais,1x/an
+36,Femme,2942,Bac,Ville moyenne,Jamais,Jamais,1x/an,Industriel,2,Apolitique,Athée,<1h/j,1x/sem,Jamais
+35,Homme,2081,Bac+2,Banlieue,Rarement,Occasionnel,Jamais,Industriel,4,Centre,Agnostique,<1h/j,1x/sem,2-3x/an
+19,Femme,1662,Bac,Grande ville,3x+/sem,Régulier,2-4x/an,Industriel,6,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+69,Homme,1445,Aucun,Ville moyenne,Rarement,Régulier,1x/mois ou +,Industriel,7,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+62,Homme,1377,Bac+5,Grande ville,Rarement,Occasionnel,Jamais,Bio,3,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+59,Femme,2378,Bac+5,Ville moyenne,Rarement,Jamais,1x/an,Industriel,4,Apolitique,Athée,3h+/j,1x/sem,2-3x/an
+66,Homme,2520,Bac+5,Grande ville,Rarement,Jamais,1x/an,Industriel,5,Gauche,Pratiquant,<1h/j,1x/sem,2-3x/an
+45,Femme,2190,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,2,Gauche,Athée,<1h/j,2x+/sem,1x/an
+67,Homme,500,Bac,Grande ville,Rarement,Occasionnel,1x/an,Végétarien,7,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+40,Femme,2237,Bac+2,Banlieue,Rarement,Occasionnel,1x/mois ou +,Équilibré,7,Centre,Agnostique,1-3h/j,1x/sem,Jamais
+21,Homme,2452,Bac,Grande ville,1-2x/sem,Régulier,1x/an,Équilibré,4,Centre,Pratiquant,<1h/j,Jamais,Jamais
+21,Homme,1464,Bac+2,Campagne,Jamais,Occasionnel,2-4x/an,Bio,9,Droite,Agnostique,3h+/j,1x/sem,2-3x/an
+29,Femme,2034,Bac+2,Grande ville,Jamais,Régulier,Jamais,Équilibré,5,Gauche,Agnostique,<1h/j,1x/mois,Jamais
+39,Homme,508,Bac+2,Ville moyenne,Rarement,Occasionnel,2-4x/an,Industriel,5,Droite,Agnostique,<1h/j,1x/mois,Jamais
+43,Femme,1016,Doctorat,Ville moyenne,3x+/sem,Occasionnel,1x/mois ou +,Bio,3,Centre,Athée,<1h/j,1x/mois,1x/an
+57,Homme,1740,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Végétarien,10,Centre,Pratiquant,1-3h/j,1x/mois,Jamais
+59,Femme,1752,Doctorat,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,1,Centre,Athée,1-3h/j,1x/sem,2-3x/an
+52,Homme,2281,Bac+5,Grande ville,3x+/sem,Occasionnel,1x/an,Végétarien,5,Apolitique,Athée,3h+/j,1x/mois,1x/an
+21,Femme,1050,Doctorat,Grande ville,Jamais,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+29,Homme,1727,Bac+5,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Équilibré,6,Gauche,Athée,<1h/j,Jamais,2-3x/an
+21,Homme,1608,Bac,Grande ville,Rarement,Jamais,1x/an,Végétarien,5,Apolitique,Agnostique,<1h/j,Jamais,2-3x/an
+69,Femme,2422,Bac+5,Grande ville,3x+/sem,Régulier,2-4x/an,Bio,7,Apolitique,Agnostique,<1h/j,2x+/sem,2-3x/an
+48,Femme,3136,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,2,Gauche,Athée,1-3h/j,1x/mois,1x/an
+24,Homme,3376,Bac,Grande ville,1-2x/sem,Régulier,1x/mois ou +,Industriel,6,Apolitique,Pratiquant,<1h/j,1x/sem,1x/an
+27,Homme,745,Bac,Grande ville,3x+/sem,Occasionnel,2-4x/an,Industriel,8,Apolitique,Pratiquant,1-3h/j,1x/mois,2-3x/an
+41,Femme,1961,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,5,Gauche,Athée,1-3h/j,2x+/sem,Jamais
+32,Homme,1109,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Industriel,1,Apolitique,Agnostique,<1h/j,Jamais,Jamais
+56,Homme,1948,Doctorat,Ville moyenne,3x+/sem,Régulier,1x/an,Industriel,4,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+37,Femme,2338,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,1,Apolitique,Pratiquant,3h+/j,1x/sem,1x/an
+24,Homme,2065,Bac+2,Ville moyenne,Jamais,Occasionnel,2-4x/an,Équilibré,9,Droite,Pratiquant,3h+/j,Jamais,4x+/an
+30,Homme,1960,Bac+2,Ville moyenne,Rarement,Jamais,Jamais,Industriel,5,Gauche,Athée,3h+/j,1x/mois,1x/an
+45,Homme,3186,Bac,Grande ville,1-2x/sem,Régulier,1x/an,Bio,5,Droite,Pratiquant,<1h/j,2x+/sem,1x/an
+56,Femme,2576,Bac+5,Grande ville,Rarement,Régulier,1x/mois ou +,Industriel,6,Droite,Croyant non pratiquant,3h+/j,2x+/sem,1x/an
+35,Femme,1781,Aucun,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Végétarien,4,Gauche,Pratiquant,3h+/j,2x+/sem,2-3x/an
+64,Femme,2019,Bac,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Végétarien,6,Apolitique,Pratiquant,1-3h/j,2x+/sem,Jamais
+28,Homme,2696,Aucun,Grande ville,Jamais,Régulier,1x/an,Industriel,9,Centre,Agnostique,1-3h/j,1x/sem,1x/an
+53,Femme,2487,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,1,Gauche,Athée,1-3h/j,1x/sem,1x/an
+53,Femme,1659,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Bio,8,Apolitique,Agnostique,Jamais,2x+/sem,2-3x/an
+19,Homme,579,Doctorat,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Industriel,6,Centre,Athée,1-3h/j,1x/sem,1x/an
+65,Femme,1052,Bac,Ville moyenne,3x+/sem,Régulier,2-4x/an,Équilibré,9,Centre,Agnostique,3h+/j,1x/mois,Jamais
+63,Femme,2116,Bac,Ville moyenne,3x+/sem,Régulier,2-4x/an,Industriel,8,Centre,Agnostique,Jamais,1x/mois,2-3x/an
+34,Homme,570,Bac+5,Campagne,Rarement,Occasionnel,2-4x/an,Industriel,8,Apolitique,Pratiquant,1-3h/j,1x/sem,1x/an
+23,Homme,1878,Bac+2,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Équilibré,10,Gauche,Athée,3h+/j,1x/mois,2-3x/an
+58,Homme,1637,Bac+2,Grande ville,Jamais,Régulier,Jamais,Industriel,9,Droite,Pratiquant,1-3h/j,1x/sem,2-3x/an
+63,Femme,2799,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+40,Femme,945,Bac+5,Ville moyenne,Rarement,Régulier,Jamais,Équilibré,10,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+64,Femme,500,Bac,Banlieue,Rarement,Occasionnel,2-4x/an,Bio,10,Droite,Pratiquant,Jamais,Jamais,1x/an
+33,Femme,1664,Bac+5,Grande ville,Jamais,Régulier,Jamais,Industriel,10,Apolitique,Athée,1-3h/j,1x/mois,2-3x/an
+58,Femme,2507,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Végétarien,6,Apolitique,Athée,<1h/j,1x/sem,Jamais
+43,Femme,2855,Bac+2,Banlieue,1-2x/sem,Régulier,2-4x/an,Bio,9,Droite,Pratiquant,1-3h/j,Jamais,1x/an
+63,Homme,1272,Bac,Grande ville,1-2x/sem,Régulier,1x/mois ou +,Bio,4,Centre,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+67,Homme,2376,Aucun,Ville moyenne,Rarement,Régulier,1x/an,Équilibré,1,Apolitique,Athée,Jamais,1x/sem,2-3x/an
+18,Homme,1110,Bac+2,Grande ville,Jamais,Régulier,2-4x/an,Équilibré,2,Apolitique,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+53,Homme,1400,Bac+5,Banlieue,Rarement,Occasionnel,2-4x/an,Industriel,5,Centre,Athée,1-3h/j,Jamais,1x/an
+47,Femme,2454,Bac+2,Grande ville,1-2x/sem,Jamais,1x/an,Équilibré,9,Apolitique,Pratiquant,Jamais,1x/sem,1x/an
+19,Homme,2574,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Équilibré,4,Apolitique,Pratiquant,1-3h/j,1x/sem,1x/an
+37,Homme,1200,Bac+5,Ville moyenne,1-2x/sem,Jamais,1x/an,Équilibré,9,Droite,Pratiquant,3h+/j,1x/mois,4x+/an
+22,Homme,2379,Aucun,Grande ville,Rarement,Régulier,Jamais,Équilibré,9,Droite,Pratiquant,3h+/j,1x/mois,1x/an
+48,Femme,505,Bac,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,7,Gauche,Croyant non pratiquant,Jamais,Jamais,1x/an
+25,Homme,1837,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/an,Équilibré,9,Apolitique,Pratiquant,3h+/j,1x/sem,Jamais
+47,Femme,1092,Bac,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Bio,4,Gauche,Athée,1-3h/j,1x/sem,1x/an
+56,Homme,1353,Bac,Grande ville,Jamais,Jamais,2-4x/an,Industriel,2,Apolitique,Athée,1-3h/j,2x+/sem,1x/an
+19,Homme,979,Aucun,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Industriel,3,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+30,Homme,2442,Bac,Ville moyenne,3x+/sem,Jamais,1x/an,Équilibré,10,Centre,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+21,Femme,2443,Aucun,Ville moyenne,Rarement,Jamais,1x/mois ou +,Bio,7,Gauche,Agnostique,<1h/j,2x+/sem,2-3x/an
+62,Homme,1447,Bac+5,Banlieue,3x+/sem,Occasionnel,1x/an,Équilibré,4,Centre,Croyant non pratiquant,3h+/j,1x/sem,4x+/an
+69,Femme,2300,Bac+2,Banlieue,3x+/sem,Occasionnel,2-4x/an,Équilibré,1,Gauche,Agnostique,3h+/j,1x/mois,2-3x/an
+25,Homme,2209,Bac+2,Banlieue,1-2x/sem,Jamais,Jamais,Bio,3,Gauche,Pratiquant,Jamais,2x+/sem,2-3x/an
+56,Homme,1897,Aucun,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,7,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+42,Homme,3726,Bac+5,Campagne,Jamais,Occasionnel,1x/mois ou +,Équilibré,4,Centre,Pratiquant,1-3h/j,1x/sem,2-3x/an
+24,Homme,1327,Aucun,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,10,Gauche,Athée,<1h/j,1x/mois,Jamais
+31,Homme,2011,Bac+5,Grande ville,Rarement,Régulier,2-4x/an,Industriel,10,Centre,Athée,3h+/j,1x/mois,2-3x/an
+46,Femme,1694,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,3,Droite,Croyant non pratiquant,3h+/j,1x/mois,Jamais
+62,Femme,1702,Bac+5,Grande ville,Jamais,Jamais,2-4x/an,Équilibré,3,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+38,Homme,2127,Bac,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Bio,6,Gauche,Agnostique,1-3h/j,1x/sem,Jamais
+54,Femme,1764,Bac+2,Banlieue,Rarement,Jamais,1x/mois ou +,Bio,9,Droite,Pratiquant,<1h/j,1x/sem,Jamais
+66,Femme,1311,Aucun,Banlieue,Rarement,Régulier,2-4x/an,Équilibré,8,Gauche,Pratiquant,<1h/j,1x/mois,Jamais
+50,Femme,2099,Bac+2,Ville moyenne,3x+/sem,Occasionnel,1x/mois ou +,Végétarien,9,Centre,Croyant non pratiquant,<1h/j,1x/sem,Jamais
+58,Homme,2945,Bac,Grande ville,Rarement,Jamais,1x/mois ou +,Industriel,3,Gauche,Athée,3h+/j,1x/mois,Jamais
+42,Femme,2754,Bac+5,Banlieue,Rarement,Occasionnel,1x/an,Industriel,10,Gauche,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+63,Femme,2162,Bac,Banlieue,Jamais,Occasionnel,1x/mois ou +,Bio,3,Apolitique,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+31,Femme,1411,Bac,Campagne,3x+/sem,Régulier,1x/an,Industriel,6,Gauche,Agnostique,Jamais,2x+/sem,Jamais
+26,Homme,2149,Aucun,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,8,Gauche,Agnostique,1-3h/j,1x/mois,2-3x/an
+32,Femme,2867,Bac+2,Grande ville,3x+/sem,Régulier,1x/mois ou +,Industriel,1,Centre,Agnostique,3h+/j,1x/mois,4x+/an
+24,Femme,2952,Bac+5,Campagne,Jamais,Régulier,2-4x/an,Équilibré,1,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+19,Femme,2287,Bac+5,Banlieue,Rarement,Occasionnel,1x/an,Industriel,10,Droite,Athée,<1h/j,1x/mois,Jamais
+48,Homme,1708,Aucun,Grande ville,Rarement,Occasionnel,1x/mois ou +,Industriel,10,Gauche,Athée,3h+/j,1x/mois,1x/an
+24,Homme,1837,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,10,Gauche,Pratiquant,1-3h/j,Jamais,2-3x/an
+58,Homme,2617,Bac,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,3,Centre,Athée,<1h/j,1x/mois,2-3x/an
+28,Femme,2549,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,6,Gauche,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+30,Homme,593,Bac,Grande ville,Jamais,Occasionnel,1x/an,Industriel,3,Apolitique,Athée,Jamais,2x+/sem,Jamais
+30,Homme,2526,Bac+2,Campagne,Rarement,Occasionnel,1x/an,Bio,10,Droite,Athée,1-3h/j,Jamais,2-3x/an
+43,Femme,2569,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Industriel,6,Apolitique,Pratiquant,1-3h/j,1x/mois,Jamais
+60,Homme,1290,Bac+5,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Industriel,4,Droite,Athée,1-3h/j,1x/mois,4x+/an
+67,Homme,1388,Bac+5,Banlieue,Rarement,Occasionnel,1x/mois ou +,Industriel,5,Gauche,Agnostique,<1h/j,1x/mois,2-3x/an
+25,Homme,1394,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Bio,1,Apolitique,Athée,3h+/j,1x/mois,4x+/an
+31,Femme,1455,Bac,Campagne,3x+/sem,Régulier,1x/an,Industriel,3,Gauche,Agnostique,1-3h/j,1x/mois,Jamais
+62,Femme,866,Bac+5,Campagne,3x+/sem,Régulier,Jamais,Équilibré,1,Droite,Agnostique,Jamais,1x/sem,2-3x/an
+19,Femme,2250,Bac+5,Campagne,1-2x/sem,Occasionnel,2-4x/an,Bio,1,Centre,Pratiquant,<1h/j,1x/mois,Jamais
+59,Homme,1371,Bac+2,Ville moyenne,Rarement,Régulier,Jamais,Équilibré,8,Apolitique,Agnostique,1-3h/j,Jamais,2-3x/an
+32,Femme,1943,Bac,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Industriel,2,Gauche,Athée,3h+/j,2x+/sem,1x/an
+41,Homme,1601,Bac+5,Ville moyenne,Rarement,Jamais,2-4x/an,Industriel,8,Apolitique,Pratiquant,<1h/j,1x/sem,1x/an
+51,Femme,2204,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Industriel,10,Apolitique,Pratiquant,<1h/j,Jamais,1x/an
+21,Femme,1191,Doctorat,Grande ville,Rarement,Régulier,1x/an,Bio,9,Gauche,Croyant non pratiquant,3h+/j,2x+/sem,Jamais
+35,Homme,2196,Bac,Grande ville,Rarement,Jamais,2-4x/an,Industriel,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+42,Femme,2311,Doctorat,Ville moyenne,Jamais,Régulier,1x/an,Bio,6,Droite,Athée,Jamais,2x+/sem,1x/an
+64,Femme,2662,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Industriel,10,Droite,Agnostique,3h+/j,1x/sem,1x/an
+41,Femme,3574,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Industriel,4,Gauche,Pratiquant,3h+/j,Jamais,2-3x/an
+23,Homme,500,Bac,Banlieue,Rarement,Occasionnel,1x/an,Industriel,1,Droite,Pratiquant,Jamais,1x/sem,2-3x/an
+51,Femme,2256,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,8,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+68,Homme,1432,Bac+2,Campagne,1-2x/sem,Régulier,1x/an,Industriel,3,Droite,Agnostique,3h+/j,Jamais,2-3x/an
+55,Femme,500,Bac+2,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,8,Gauche,Agnostique,<1h/j,Jamais,1x/an
+20,Femme,2673,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Bio,6,Apolitique,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+36,Femme,3065,Bac+5,Ville moyenne,Jamais,Occasionnel,1x/an,Bio,5,Gauche,Pratiquant,<1h/j,1x/mois,Jamais
+64,Femme,1686,Bac+5,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Industriel,1,Droite,Agnostique,<1h/j,1x/sem,2-3x/an
+63,Homme,2168,Bac+5,Grande ville,Rarement,Jamais,1x/mois ou +,Équilibré,6,Apolitique,Pratiquant,Jamais,1x/mois,2-3x/an
+53,Homme,1948,Bac+5,Grande ville,Jamais,Occasionnel,1x/an,Équilibré,9,Apolitique,Croyant non pratiquant,Jamais,1x/sem,2-3x/an
+36,Femme,2347,Bac,Banlieue,Rarement,Occasionnel,1x/an,Végétarien,3,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+45,Homme,2704,Bac+5,Grande ville,Jamais,Occasionnel,2-4x/an,Végétarien,3,Droite,Croyant non pratiquant,3h+/j,Jamais,1x/an
+64,Homme,2275,Bac,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,1,Droite,Agnostique,<1h/j,1x/sem,4x+/an
+27,Femme,2276,Aucun,Ville moyenne,3x+/sem,Régulier,1x/an,Équilibré,3,Centre,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+35,Homme,3007,Doctorat,Grande ville,3x+/sem,Régulier,1x/mois ou +,Bio,2,Apolitique,Agnostique,1-3h/j,1x/sem,1x/an
+21,Femme,1868,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Industriel,10,Centre,Athée,3h+/j,1x/sem,1x/an
+29,Homme,2738,Bac,Ville moyenne,Jamais,Régulier,1x/mois ou +,Industriel,9,Gauche,Athée,<1h/j,1x/mois,1x/an
+44,Homme,1342,Bac+2,Ville moyenne,Jamais,Jamais,1x/an,Végétarien,6,Droite,Agnostique,Jamais,Jamais,4x+/an
+46,Femme,3285,Bac,Campagne,1-2x/sem,Régulier,2-4x/an,Équilibré,9,Apolitique,Athée,1-3h/j,1x/mois,2-3x/an
+29,Homme,2590,Bac,Campagne,Jamais,Occasionnel,1x/mois ou +,Équilibré,4,Gauche,Athée,<1h/j,Jamais,2-3x/an
+28,Homme,1676,Bac+5,Banlieue,Rarement,Régulier,2-4x/an,Végétarien,5,Droite,Agnostique,3h+/j,1x/sem,2-3x/an
+21,Homme,500,Bac,Campagne,Rarement,Jamais,1x/an,Équilibré,1,Gauche,Pratiquant,3h+/j,1x/mois,4x+/an
+63,Femme,1999,Doctorat,Grande ville,Rarement,Occasionnel,1x/an,Bio,10,Gauche,Pratiquant,Jamais,1x/mois,1x/an
+41,Femme,1054,Bac+5,Banlieue,Jamais,Occasionnel,2-4x/an,Bio,1,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+43,Homme,2239,Bac+5,Banlieue,3x+/sem,Jamais,2-4x/an,Industriel,2,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+45,Femme,3160,Bac,Grande ville,3x+/sem,Régulier,2-4x/an,Équilibré,1,Gauche,Athée,<1h/j,2x+/sem,1x/an
+64,Homme,2128,Bac+5,Grande ville,Rarement,Régulier,1x/an,Équilibré,2,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+21,Femme,1857,Aucun,Grande ville,1-2x/sem,Régulier,2-4x/an,Industriel,5,Gauche,Agnostique,1-3h/j,1x/sem,4x+/an
+53,Homme,2273,Bac+2,Campagne,Rarement,Occasionnel,2-4x/an,Industriel,6,Apolitique,Pratiquant,<1h/j,1x/mois,2-3x/an
+32,Homme,2228,Bac,Campagne,3x+/sem,Occasionnel,2-4x/an,Industriel,7,Gauche,Agnostique,1-3h/j,1x/mois,2-3x/an
+39,Femme,500,Bac+5,Ville moyenne,1-2x/sem,Jamais,1x/an,Équilibré,9,Gauche,Athée,<1h/j,1x/sem,2-3x/an
+66,Homme,2192,Bac+5,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Gauche,Agnostique,Jamais,1x/mois,4x+/an
+41,Homme,2496,Bac+2,Campagne,Rarement,Régulier,1x/an,Bio,4,Centre,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+41,Homme,1792,Bac+2,Grande ville,1-2x/sem,Régulier,1x/an,Équilibré,5,Centre,Croyant non pratiquant,<1h/j,Jamais,Jamais
+54,Femme,2782,Aucun,Banlieue,1-2x/sem,Jamais,1x/an,Bio,7,Centre,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+22,Femme,1897,Bac,Ville moyenne,3x+/sem,Régulier,1x/an,Équilibré,2,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+23,Homme,2613,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,1,Droite,Athée,<1h/j,1x/mois,4x+/an
+66,Homme,3818,Aucun,Campagne,Rarement,Jamais,2-4x/an,Végétarien,10,Centre,Athée,3h+/j,1x/sem,1x/an
+27,Femme,1922,Bac+5,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,10,Droite,Athée,Jamais,Jamais,1x/an
+20,Homme,500,Doctorat,Grande ville,Rarement,Jamais,2-4x/an,Bio,10,Droite,Athée,<1h/j,1x/sem,2-3x/an
+55,Homme,1730,Aucun,Banlieue,Rarement,Jamais,1x/an,Équilibré,9,Apolitique,Agnostique,3h+/j,2x+/sem,Jamais
+51,Femme,619,Bac+2,Grande ville,Rarement,Régulier,1x/an,Industriel,9,Droite,Pratiquant,Jamais,1x/mois,2-3x/an
+23,Homme,2488,Bac+2,Banlieue,1-2x/sem,Régulier,2-4x/an,Bio,8,Centre,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+27,Homme,3047,Bac+5,Grande ville,Jamais,Occasionnel,2-4x/an,Équilibré,10,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+33,Femme,2556,Bac,Campagne,1-2x/sem,Jamais,1x/an,Équilibré,1,Centre,Pratiquant,1-3h/j,2x+/sem,1x/an
+46,Homme,2256,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,1,Centre,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+20,Homme,1484,Bac+5,Ville moyenne,3x+/sem,Occasionnel,1x/an,Bio,1,Gauche,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+28,Homme,3260,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,8,Gauche,Pratiquant,<1h/j,1x/sem,1x/an
+54,Homme,2602,Bac,Campagne,Jamais,Régulier,1x/an,Équilibré,10,Gauche,Athée,1-3h/j,2x+/sem,1x/an
+21,Homme,2227,Bac+5,Campagne,1-2x/sem,Régulier,1x/mois ou +,Industriel,2,Apolitique,Agnostique,<1h/j,1x/mois,4x+/an
+66,Homme,2163,Doctorat,Grande ville,3x+/sem,Régulier,1x/an,Végétarien,5,Droite,Athée,1-3h/j,Jamais,1x/an
+21,Femme,2089,Bac+5,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,3,Droite,Pratiquant,1-3h/j,1x/sem,1x/an
+41,Homme,2361,Doctorat,Grande ville,3x+/sem,Occasionnel,Jamais,Végétarien,7,Gauche,Agnostique,1-3h/j,1x/sem,Jamais
+45,Femme,1509,Doctorat,Banlieue,Jamais,Occasionnel,1x/an,Industriel,9,Centre,Agnostique,1-3h/j,1x/mois,4x+/an
+52,Homme,3220,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,9,Apolitique,Agnostique,1-3h/j,Jamais,1x/an
+55,Femme,2121,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Droite,Agnostique,Jamais,1x/sem,2-3x/an
+67,Homme,2480,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Équilibré,3,Gauche,Croyant non pratiquant,Jamais,Jamais,1x/an
+41,Femme,1653,Bac+5,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,6,Centre,Athée,<1h/j,1x/mois,Jamais
+39,Homme,2299,Bac+2,Campagne,1-2x/sem,Occasionnel,2-4x/an,Industriel,8,Centre,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+43,Homme,500,Bac+2,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,3,Centre,Pratiquant,Jamais,2x+/sem,2-3x/an
+35,Femme,1105,Bac,Banlieue,Rarement,Régulier,1x/an,Végétarien,5,Droite,Agnostique,3h+/j,1x/sem,2-3x/an
+20,Femme,1974,Bac+2,Banlieue,1-2x/sem,Régulier,1x/mois ou +,Industriel,4,Droite,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+63,Femme,942,Aucun,Grande ville,3x+/sem,Régulier,1x/an,Équilibré,8,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+28,Homme,3951,Bac+5,Grande ville,Rarement,Occasionnel,Jamais,Industriel,3,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+26,Femme,665,Bac,Grande ville,Jamais,Jamais,Jamais,Industriel,4,Apolitique,Agnostique,1-3h/j,1x/mois,4x+/an
+50,Homme,2276,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,3,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,Jamais
+43,Homme,3324,Bac+2,Grande ville,Rarement,Régulier,2-4x/an,Industriel,4,Gauche,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+53,Homme,2385,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,2,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+21,Femme,1751,Bac+5,Banlieue,3x+/sem,Régulier,1x/an,Végétarien,4,Apolitique,Pratiquant,1-3h/j,1x/sem,1x/an
+69,Femme,1558,Bac+5,Campagne,Rarement,Occasionnel,1x/an,Équilibré,8,Centre,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+19,Homme,2538,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+25,Femme,1359,Bac+2,Grande ville,Jamais,Jamais,1x/an,Équilibré,5,Apolitique,Agnostique,1-3h/j,1x/sem,2-3x/an
+24,Femme,1904,Bac+5,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Bio,3,Gauche,Pratiquant,3h+/j,1x/sem,1x/an
+53,Femme,2552,Bac+5,Campagne,1-2x/sem,Occasionnel,1x/an,Équilibré,2,Gauche,Pratiquant,3h+/j,1x/sem,1x/an
+51,Femme,1753,Aucun,Banlieue,1-2x/sem,Occasionnel,1x/an,Équilibré,3,Apolitique,Agnostique,3h+/j,2x+/sem,2-3x/an
+57,Homme,2070,Bac,Grande ville,3x+/sem,Jamais,2-4x/an,Industriel,1,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+36,Homme,1756,Doctorat,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+46,Femme,1224,Bac+2,Ville moyenne,Jamais,Occasionnel,2-4x/an,Industriel,5,Droite,Croyant non pratiquant,Jamais,1x/sem,2-3x/an
+56,Femme,2951,Bac,Grande ville,Rarement,Régulier,1x/an,Équilibré,2,Centre,Agnostique,1-3h/j,1x/sem,2-3x/an
+23,Homme,3114,Aucun,Ville moyenne,Rarement,Régulier,2-4x/an,Équilibré,8,Centre,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+27,Femme,1746,Aucun,Grande ville,3x+/sem,Régulier,2-4x/an,Équilibré,8,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+58,Femme,1787,Bac+5,Banlieue,3x+/sem,Occasionnel,1x/an,Équilibré,1,Droite,Croyant non pratiquant,3h+/j,1x/sem,4x+/an
+59,Femme,1857,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Droite,Athée,1-3h/j,1x/sem,Jamais
+22,Homme,2431,Bac,Ville moyenne,3x+/sem,Occasionnel,1x/an,Industriel,9,Droite,Pratiquant,<1h/j,1x/sem,Jamais
+41,Femme,1275,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Bio,3,Gauche,Croyant non pratiquant,3h+/j,1x/sem,Jamais
+58,Femme,1929,Bac+2,Ville moyenne,3x+/sem,Jamais,2-4x/an,Équilibré,7,Apolitique,Agnostique,1-3h/j,1x/sem,2-3x/an
+39,Femme,2210,Bac+2,Ville moyenne,Rarement,Régulier,1x/an,Équilibré,2,Droite,Athée,1-3h/j,Jamais,2-3x/an
+43,Homme,2513,Bac,Campagne,Jamais,Occasionnel,1x/an,Équilibré,2,Droite,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+68,Homme,500,Bac+5,Campagne,1-2x/sem,Régulier,1x/an,Équilibré,5,Centre,Agnostique,<1h/j,1x/mois,1x/an
+54,Homme,2322,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,7,Droite,Agnostique,3h+/j,1x/mois,Jamais
+62,Homme,2276,Doctorat,Grande ville,Rarement,Jamais,1x/an,Équilibré,8,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+46,Homme,2806,Bac+2,Campagne,3x+/sem,Régulier,2-4x/an,Industriel,9,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+53,Homme,1578,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Végétarien,2,Gauche,Pratiquant,1-3h/j,1x/mois,4x+/an
+37,Femme,1585,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Végétarien,5,Centre,Pratiquant,1-3h/j,1x/sem,1x/an
+35,Femme,2962,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Bio,2,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+57,Homme,749,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,10,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+62,Homme,3303,Bac+2,Banlieue,3x+/sem,Régulier,1x/an,Bio,7,Apolitique,Croyant non pratiquant,3h+/j,Jamais,1x/an
+58,Homme,4044,Bac+2,Ville moyenne,Rarement,Occasionnel,2-4x/an,Végétarien,5,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+32,Femme,2381,Bac+5,Grande ville,Jamais,Régulier,1x/an,Bio,9,Gauche,Croyant non pratiquant,3h+/j,1x/sem,Jamais
+32,Homme,2651,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Bio,7,Gauche,Athée,1-3h/j,1x/sem,1x/an
+41,Homme,808,Bac,Grande ville,Rarement,Régulier,1x/an,Équilibré,5,Droite,Athée,1-3h/j,1x/mois,2-3x/an
+46,Homme,1444,Bac,Grande ville,Rarement,Régulier,1x/mois ou +,Bio,5,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+34,Homme,2846,Bac+2,Campagne,3x+/sem,Régulier,2-4x/an,Industriel,6,Droite,Pratiquant,<1h/j,Jamais,2-3x/an
+66,Homme,2289,Bac+2,Campagne,Rarement,Occasionnel,Jamais,Bio,4,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+64,Homme,1854,Bac+2,Grande ville,Jamais,Occasionnel,1x/mois ou +,Équilibré,8,Droite,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+42,Femme,2186,Aucun,Grande ville,Rarement,Régulier,1x/mois ou +,Équilibré,6,Centre,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+33,Femme,2405,Bac+5,Banlieue,1-2x/sem,Jamais,1x/mois ou +,Industriel,3,Centre,Croyant non pratiquant,Jamais,1x/mois,1x/an
+67,Femme,1765,Bac,Grande ville,Rarement,Jamais,1x/an,Équilibré,4,Droite,Athée,<1h/j,1x/sem,2-3x/an
+34,Femme,1976,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Bio,7,Gauche,Pratiquant,1-3h/j,1x/mois,Jamais
+64,Femme,1970,Bac+5,Banlieue,Jamais,Régulier,1x/an,Équilibré,10,Centre,Athée,<1h/j,1x/sem,Jamais
+64,Homme,1158,Bac,Ville moyenne,1-2x/sem,Régulier,1x/an,Équilibré,3,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+38,Femme,2258,Bac+2,Grande ville,Rarement,Régulier,1x/mois ou +,Bio,5,Centre,Athée,<1h/j,Jamais,1x/an
+61,Homme,3442,Aucun,Grande ville,1-2x/sem,Régulier,2-4x/an,Bio,6,Gauche,Athée,<1h/j,1x/mois,2-3x/an
+65,Homme,3385,Aucun,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Industriel,7,Apolitique,Croyant non pratiquant,<1h/j,2x+/sem,4x+/an
+44,Homme,818,Bac,Campagne,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,1,Centre,Croyant non pratiquant,<1h/j,1x/sem,Jamais
+22,Homme,2456,Bac+5,Grande ville,Jamais,Occasionnel,1x/an,Équilibré,3,Apolitique,Athée,<1h/j,1x/mois,2-3x/an
+39,Homme,2540,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Végétarien,10,Gauche,Agnostique,1-3h/j,1x/sem,Jamais
+50,Homme,1671,Bac+2,Grande ville,1-2x/sem,Occasionnel,Jamais,Industriel,4,Apolitique,Agnostique,<1h/j,Jamais,Jamais
+57,Homme,1228,Aucun,Campagne,3x+/sem,Occasionnel,2-4x/an,Industriel,6,Droite,Agnostique,<1h/j,1x/mois,1x/an
+19,Femme,943,Bac,Grande ville,Jamais,Régulier,1x/mois ou +,Équilibré,5,Centre,Athée,1-3h/j,1x/mois,1x/an
+52,Femme,1644,Doctorat,Ville moyenne,1-2x/sem,Jamais,Jamais,Industriel,4,Gauche,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+60,Homme,2280,Bac,Banlieue,Rarement,Régulier,2-4x/an,Équilibré,2,Apolitique,Agnostique,Jamais,2x+/sem,4x+/an
+36,Femme,1873,Bac+5,Grande ville,3x+/sem,Jamais,1x/mois ou +,Équilibré,8,Gauche,Agnostique,<1h/j,1x/sem,1x/an
+57,Homme,1511,Bac+5,Grande ville,Jamais,Régulier,1x/an,Bio,4,Gauche,Pratiquant,1-3h/j,1x/sem,1x/an
+44,Femme,1000,Bac+2,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Industriel,3,Centre,Athée,1-3h/j,1x/mois,2-3x/an
+57,Homme,2280,Doctorat,Campagne,Rarement,Jamais,2-4x/an,Bio,4,Droite,Croyant non pratiquant,Jamais,2x+/sem,1x/an
+53,Femme,2853,Bac+2,Ville moyenne,1-2x/sem,Jamais,Jamais,Équilibré,8,Gauche,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+56,Femme,1258,Doctorat,Grande ville,Jamais,Jamais,2-4x/an,Végétarien,8,Gauche,Athée,1-3h/j,1x/mois,1x/an
+19,Femme,2358,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,3,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+58,Homme,500,Bac+5,Grande ville,Rarement,Jamais,1x/an,Industriel,2,Apolitique,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+35,Homme,1474,Doctorat,Grande ville,Rarement,Occasionnel,1x/mois ou +,Bio,4,Gauche,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+63,Femme,2583,Bac+2,Ville moyenne,1-2x/sem,Jamais,1x/mois ou +,Industriel,6,Centre,Pratiquant,3h+/j,1x/mois,1x/an
+40,Femme,1105,Bac,Grande ville,1-2x/sem,Régulier,2-4x/an,Industriel,7,Droite,Croyant non pratiquant,Jamais,1x/sem,1x/an
+43,Femme,1516,Bac,Banlieue,Jamais,Régulier,1x/mois ou +,Végétarien,4,Droite,Pratiquant,1-3h/j,1x/sem,4x+/an
+28,Femme,3134,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Équilibré,1,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+65,Femme,1413,Bac+2,Grande ville,Jamais,Jamais,Jamais,Industriel,10,Apolitique,Athée,1-3h/j,1x/mois,2-3x/an
+18,Homme,1316,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Industriel,3,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+53,Homme,2460,Doctorat,Grande ville,3x+/sem,Jamais,1x/mois ou +,Bio,4,Gauche,Pratiquant,1-3h/j,Jamais,Jamais
+67,Homme,3563,Doctorat,Campagne,1-2x/sem,Régulier,2-4x/an,Végétarien,3,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+37,Femme,1808,Bac+2,Ville moyenne,1-2x/sem,Jamais,2-4x/an,Bio,2,Droite,Agnostique,1-3h/j,1x/mois,2-3x/an
+48,Homme,2614,Doctorat,Ville moyenne,Rarement,Occasionnel,1x/an,Industriel,8,Gauche,Athée,3h+/j,1x/mois,4x+/an
+25,Femme,3076,Bac+2,Grande ville,1-2x/sem,Régulier,Jamais,Industriel,9,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+57,Femme,2260,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Équilibré,7,Centre,Athée,1-3h/j,Jamais,Jamais
+41,Femme,1784,Bac+2,Banlieue,1-2x/sem,Jamais,Jamais,Industriel,8,Gauche,Agnostique,Jamais,1x/sem,2-3x/an
+37,Homme,1298,Aucun,Grande ville,3x+/sem,Régulier,2-4x/an,Industriel,1,Apolitique,Pratiquant,Jamais,1x/sem,1x/an
+32,Femme,859,Bac,Ville moyenne,Jamais,Régulier,Jamais,Équilibré,8,Gauche,Agnostique,Jamais,1x/mois,Jamais
+47,Femme,2889,Bac+5,Ville moyenne,Rarement,Régulier,2-4x/an,Végétarien,4,Droite,Agnostique,<1h/j,2x+/sem,1x/an
+37,Femme,2144,Bac+5,Grande ville,Rarement,Jamais,2-4x/an,Industriel,8,Droite,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+55,Femme,3066,Bac,Grande ville,1-2x/sem,Jamais,1x/an,Industriel,7,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+19,Femme,2791,Bac+5,Campagne,1-2x/sem,Occasionnel,1x/an,Bio,5,Gauche,Athée,3h+/j,1x/mois,1x/an
+23,Femme,1506,Doctorat,Grande ville,Jamais,Jamais,2-4x/an,Industriel,6,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+59,Femme,1050,Doctorat,Ville moyenne,3x+/sem,Régulier,1x/an,Équilibré,2,Gauche,Athée,<1h/j,Jamais,4x+/an
+35,Homme,2330,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,9,Droite,Athée,3h+/j,1x/sem,1x/an
+53,Femme,1493,Bac+5,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Bio,1,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+31,Femme,2301,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Bio,10,Apolitique,Pratiquant,1-3h/j,1x/mois,Jamais
+43,Femme,1415,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Bio,6,Gauche,Pratiquant,3h+/j,2x+/sem,2-3x/an
+51,Homme,1311,Bac,Grande ville,Jamais,Occasionnel,1x/an,Industriel,6,Apolitique,Agnostique,1-3h/j,1x/sem,Jamais
+47,Femme,1887,Bac+2,Ville moyenne,Jamais,Occasionnel,2-4x/an,Équilibré,4,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+24,Femme,2747,Bac,Grande ville,Rarement,Régulier,2-4x/an,Industriel,2,Droite,Athée,<1h/j,Jamais,2-3x/an
+47,Homme,2245,Bac+5,Banlieue,1-2x/sem,Régulier,1x/an,Industriel,2,Centre,Agnostique,1-3h/j,Jamais,4x+/an
+35,Homme,2942,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,2,Centre,Agnostique,Jamais,1x/mois,Jamais
+39,Femme,1013,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Bio,5,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,Jamais
+34,Homme,1154,Bac+2,Campagne,Rarement,Jamais,1x/mois ou +,Végétarien,8,Gauche,Pratiquant,<1h/j,1x/mois,1x/an
+48,Homme,1928,Bac,Grande ville,Jamais,Jamais,2-4x/an,Bio,4,Apolitique,Pratiquant,1-3h/j,Jamais,2-3x/an
+34,Femme,3732,Doctorat,Campagne,1-2x/sem,Régulier,1x/an,Équilibré,1,Droite,Athée,<1h/j,Jamais,1x/an
+48,Homme,2539,Bac+5,Ville moyenne,3x+/sem,Occasionnel,1x/an,Équilibré,5,Apolitique,Agnostique,3h+/j,Jamais,1x/an
+30,Homme,1146,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Bio,8,Gauche,Pratiquant,1-3h/j,Jamais,1x/an
+44,Homme,1939,Bac+5,Grande ville,Rarement,Régulier,2-4x/an,Bio,3,Apolitique,Athée,1-3h/j,2x+/sem,2-3x/an
+37,Homme,2176,Bac,Ville moyenne,Rarement,Jamais,1x/an,Bio,3,Apolitique,Athée,1-3h/j,Jamais,1x/an
+34,Femme,1545,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,9,Centre,Athée,1-3h/j,Jamais,2-3x/an
+46,Femme,2490,Bac,Ville moyenne,1-2x/sem,Jamais,2-4x/an,Industriel,9,Apolitique,Pratiquant,3h+/j,Jamais,Jamais
+56,Femme,1874,Aucun,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,2,Centre,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+52,Femme,1760,Bac+5,Banlieue,3x+/sem,Jamais,1x/mois ou +,Industriel,7,Centre,Agnostique,<1h/j,1x/mois,2-3x/an
+25,Femme,3008,Bac,Grande ville,Jamais,Jamais,2-4x/an,Bio,5,Droite,Athée,<1h/j,1x/sem,1x/an
+60,Homme,632,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Industriel,3,Droite,Athée,1-3h/j,1x/mois,2-3x/an
+55,Femme,1230,Bac,Banlieue,Jamais,Occasionnel,2-4x/an,Équilibré,6,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+32,Homme,1346,Bac+5,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,8,Gauche,Pratiquant,1-3h/j,1x/sem,2-3x/an
+67,Femme,1321,Bac,Banlieue,Rarement,Occasionnel,2-4x/an,Industriel,3,Gauche,Athée,3h+/j,Jamais,1x/an
+18,Femme,1416,Bac+2,Grande ville,1-2x/sem,Régulier,Jamais,Bio,8,Apolitique,Athée,Jamais,1x/mois,2-3x/an
+50,Femme,2390,Bac,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Agnostique,<1h/j,1x/mois,2-3x/an
+20,Femme,2877,Bac+2,Banlieue,Jamais,Occasionnel,2-4x/an,Industriel,1,Apolitique,Athée,1-3h/j,1x/mois,4x+/an
+56,Femme,2732,Bac+5,Campagne,1-2x/sem,Occasionnel,1x/mois ou +,Végétarien,3,Apolitique,Croyant non pratiquant,Jamais,1x/mois,Jamais
+55,Homme,1184,Bac+2,Grande ville,Rarement,Occasionnel,1x/mois ou +,Industriel,10,Apolitique,Croyant non pratiquant,3h+/j,1x/sem,2-3x/an
+65,Homme,1914,Bac+5,Ville moyenne,3x+/sem,Occasionnel,Jamais,Bio,1,Apolitique,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+32,Femme,2361,Bac,Campagne,Rarement,Occasionnel,1x/mois ou +,Équilibré,5,Gauche,Croyant non pratiquant,3h+/j,Jamais,2-3x/an
+59,Femme,2192,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,10,Apolitique,Croyant non pratiquant,1-3h/j,2x+/sem,Jamais
+35,Femme,3044,Bac,Banlieue,Rarement,Occasionnel,1x/an,Équilibré,2,Droite,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+55,Femme,1459,Bac+5,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Végétarien,5,Centre,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+48,Homme,2125,Bac+5,Grande ville,Rarement,Occasionnel,1x/mois ou +,Bio,2,Gauche,Athée,1-3h/j,1x/mois,Jamais
+37,Homme,1685,Bac+2,Ville moyenne,Rarement,Régulier,2-4x/an,Végétarien,2,Apolitique,Croyant non pratiquant,3h+/j,Jamais,Jamais
+24,Femme,2200,Bac+2,Campagne,Rarement,Régulier,2-4x/an,Bio,9,Gauche,Pratiquant,3h+/j,2x+/sem,1x/an
+54,Femme,1136,Bac,Ville moyenne,3x+/sem,Jamais,2-4x/an,Industriel,1,Apolitique,Pratiquant,3h+/j,2x+/sem,4x+/an
+44,Homme,1256,Bac+2,Ville moyenne,3x+/sem,Occasionnel,Jamais,Équilibré,10,Apolitique,Agnostique,Jamais,2x+/sem,2-3x/an
+25,Homme,1415,Doctorat,Grande ville,3x+/sem,Occasionnel,2-4x/an,Industriel,8,Apolitique,Agnostique,1-3h/j,Jamais,1x/an
+31,Femme,1549,Bac+2,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,10,Gauche,Pratiquant,3h+/j,1x/sem,1x/an
+67,Homme,3238,Bac,Banlieue,Rarement,Occasionnel,1x/mois ou +,Équilibré,7,Apolitique,Pratiquant,Jamais,1x/mois,4x+/an
+32,Femme,2940,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,5,Apolitique,Athée,1-3h/j,1x/sem,2-3x/an
+24,Femme,1829,Bac,Ville moyenne,Jamais,Régulier,2-4x/an,Végétarien,8,Centre,Athée,3h+/j,Jamais,Jamais
+50,Homme,2138,Bac+2,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,6,Centre,Croyant non pratiquant,Jamais,2x+/sem,Jamais
+69,Femme,724,Bac+2,Campagne,Rarement,Régulier,Jamais,Bio,3,Centre,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+51,Femme,1856,Doctorat,Campagne,Jamais,Régulier,2-4x/an,Équilibré,4,Droite,Agnostique,1-3h/j,1x/mois,Jamais
+21,Femme,2127,Bac+2,Campagne,1-2x/sem,Régulier,1x/mois ou +,Bio,5,Droite,Pratiquant,<1h/j,1x/mois,2-3x/an
+18,Femme,2916,Bac+5,Grande ville,Rarement,Régulier,1x/mois ou +,Équilibré,8,Apolitique,Croyant non pratiquant,Jamais,2x+/sem,1x/an
+58,Femme,2261,Bac,Ville moyenne,Jamais,Occasionnel,1x/an,Industriel,7,Centre,Croyant non pratiquant,3h+/j,Jamais,1x/an
+31,Femme,2346,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,1,Droite,Croyant non pratiquant,Jamais,1x/mois,1x/an
+48,Femme,2238,Bac+2,Ville moyenne,3x+/sem,Jamais,2-4x/an,Industriel,2,Gauche,Agnostique,3h+/j,1x/mois,2-3x/an
+55,Femme,2215,Bac+2,Banlieue,Rarement,Régulier,2-4x/an,Bio,7,Centre,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+67,Homme,882,Bac+2,Campagne,1-2x/sem,Occasionnel,2-4x/an,Végétarien,7,Gauche,Athée,<1h/j,1x/mois,2-3x/an
+37,Homme,1666,Bac+5,Banlieue,Rarement,Régulier,2-4x/an,Bio,10,Gauche,Croyant non pratiquant,3h+/j,Jamais,2-3x/an
+20,Femme,3147,Bac,Grande ville,Rarement,Jamais,2-4x/an,Bio,2,Centre,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+52,Homme,2659,Aucun,Ville moyenne,Rarement,Régulier,1x/an,Équilibré,5,Centre,Agnostique,1-3h/j,1x/mois,1x/an
+63,Femme,2395,Bac,Banlieue,Rarement,Jamais,2-4x/an,Équilibré,7,Gauche,Agnostique,1-3h/j,1x/mois,4x+/an
+50,Homme,2053,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Industriel,9,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+32,Homme,2527,Bac,Ville moyenne,Rarement,Occasionnel,1x/an,Bio,5,Gauche,Pratiquant,Jamais,1x/mois,1x/an
+20,Homme,1244,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/an,Bio,2,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+45,Femme,735,Aucun,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,2,Apolitique,Pratiquant,3h+/j,1x/mois,Jamais
+44,Femme,1694,Doctorat,Ville moyenne,Rarement,Occasionnel,1x/an,Équilibré,9,Apolitique,Athée,1-3h/j,1x/sem,Jamais
+64,Homme,2430,Doctorat,Ville moyenne,Rarement,Occasionnel,2-4x/an,Industriel,1,Centre,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+64,Homme,2086,Bac+5,Campagne,Rarement,Régulier,2-4x/an,Industriel,8,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+50,Femme,2811,Bac+5,Grande ville,3x+/sem,Régulier,1x/an,Végétarien,5,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+36,Homme,2281,Bac+2,Banlieue,1-2x/sem,Régulier,1x/an,Équilibré,5,Apolitique,Athée,3h+/j,1x/mois,1x/an
+50,Homme,2035,Bac,Ville moyenne,Rarement,Régulier,1x/an,Bio,1,Gauche,Pratiquant,3h+/j,Jamais,2-3x/an
+48,Femme,3061,Bac,Grande ville,3x+/sem,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,Jamais
+21,Homme,2905,Bac+2,Campagne,1-2x/sem,Jamais,Jamais,Bio,8,Droite,Agnostique,1-3h/j,2x+/sem,2-3x/an
+49,Femme,1921,Bac+5,Grande ville,Rarement,Jamais,1x/an,Bio,2,Apolitique,Croyant non pratiquant,3h+/j,2x+/sem,Jamais
+59,Homme,1117,Bac+2,Ville moyenne,Rarement,Occasionnel,2-4x/an,Bio,7,Centre,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+45,Femme,1274,Bac,Banlieue,1-2x/sem,Jamais,1x/mois ou +,Bio,6,Droite,Agnostique,3h+/j,1x/mois,2-3x/an
+33,Femme,1870,Bac+5,Campagne,Rarement,Occasionnel,1x/an,Équilibré,3,Droite,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+66,Femme,1706,Bac+5,Ville moyenne,Jamais,Jamais,1x/mois ou +,Bio,6,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+60,Homme,3326,Aucun,Banlieue,Rarement,Jamais,1x/an,Bio,4,Apolitique,Agnostique,1-3h/j,1x/sem,4x+/an
+45,Homme,655,Bac+2,Campagne,Rarement,Jamais,1x/mois ou +,Équilibré,4,Centre,Athée,Jamais,1x/mois,Jamais
+32,Homme,1948,Bac+2,Ville moyenne,Jamais,Jamais,2-4x/an,Végétarien,6,Droite,Agnostique,<1h/j,2x+/sem,Jamais
+65,Homme,1147,Aucun,Banlieue,Rarement,Occasionnel,2-4x/an,Bio,4,Droite,Athée,3h+/j,2x+/sem,1x/an
+39,Femme,2093,Bac,Campagne,Jamais,Occasionnel,2-4x/an,Équilibré,6,Droite,Croyant non pratiquant,<1h/j,1x/sem,Jamais
+48,Homme,2305,Bac+5,Banlieue,Jamais,Régulier,2-4x/an,Industriel,10,Centre,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+38,Homme,1676,Bac+2,Banlieue,Rarement,Occasionnel,1x/an,Industriel,2,Gauche,Pratiquant,3h+/j,1x/sem,1x/an
+49,Homme,2424,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,10,Centre,Pratiquant,<1h/j,1x/sem,2-3x/an
+24,Homme,1841,Bac+2,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,2,Gauche,Agnostique,1-3h/j,1x/mois,2-3x/an
+50,Homme,1856,Bac+5,Grande ville,1-2x/sem,Régulier,1x/an,Bio,3,Gauche,Croyant non pratiquant,1-3h/j,Jamais,Jamais
+25,Femme,1665,Bac,Banlieue,3x+/sem,Occasionnel,2-4x/an,Bio,10,Gauche,Athée,3h+/j,Jamais,1x/an
+31,Homme,2520,Doctorat,Campagne,1-2x/sem,Régulier,2-4x/an,Industriel,9,Centre,Croyant non pratiquant,Jamais,1x/sem,2-3x/an
+42,Femme,2110,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Bio,4,Gauche,Croyant non pratiquant,<1h/j,2x+/sem,2-3x/an
+49,Homme,3258,Bac,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,2,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+45,Homme,3016,Bac,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Végétarien,9,Gauche,Athée,1-3h/j,1x/mois,Jamais
+19,Femme,2443,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Végétarien,2,Apolitique,Croyant non pratiquant,Jamais,2x+/sem,1x/an
+34,Femme,500,Bac,Grande ville,Rarement,Jamais,1x/an,Industriel,7,Apolitique,Agnostique,<1h/j,1x/mois,2-3x/an
+44,Femme,812,Doctorat,Ville moyenne,1-2x/sem,Jamais,1x/an,Équilibré,2,Centre,Pratiquant,3h+/j,1x/sem,Jamais
+19,Femme,2789,Aucun,Banlieue,1-2x/sem,Occasionnel,1x/an,Végétarien,8,Apolitique,Athée,<1h/j,1x/mois,1x/an
+25,Homme,1619,Bac,Banlieue,Rarement,Régulier,2-4x/an,Équilibré,2,Gauche,Athée,<1h/j,2x+/sem,1x/an
+55,Homme,2187,Bac+2,Grande ville,Rarement,Jamais,2-4x/an,Végétarien,5,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+37,Homme,1495,Bac,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,9,Gauche,Agnostique,3h+/j,1x/mois,1x/an
+66,Femme,2414,Bac+2,Banlieue,Jamais,Régulier,2-4x/an,Végétarien,1,Droite,Agnostique,1-3h/j,1x/sem,1x/an
+54,Femme,2766,Bac+2,Campagne,3x+/sem,Régulier,1x/an,Bio,5,Apolitique,Pratiquant,<1h/j,Jamais,2-3x/an
+38,Homme,1032,Aucun,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,7,Droite,Pratiquant,Jamais,2x+/sem,1x/an
+43,Femme,1349,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Végétarien,6,Apolitique,Athée,1-3h/j,1x/mois,1x/an
+48,Homme,669,Bac+5,Banlieue,Rarement,Occasionnel,2-4x/an,Végétarien,5,Gauche,Athée,Jamais,2x+/sem,1x/an
+37,Femme,2186,Bac+2,Banlieue,Rarement,Régulier,1x/an,Bio,1,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+23,Femme,667,Bac,Campagne,1-2x/sem,Occasionnel,2-4x/an,Industriel,7,Centre,Agnostique,1-3h/j,1x/sem,1x/an
+67,Homme,1707,Bac+2,Campagne,1-2x/sem,Régulier,Jamais,Équilibré,7,Gauche,Athée,Jamais,1x/mois,1x/an
+32,Homme,2415,Aucun,Ville moyenne,Rarement,Régulier,1x/mois ou +,Équilibré,8,Apolitique,Pratiquant,<1h/j,1x/sem,1x/an
+18,Femme,3646,Doctorat,Grande ville,Rarement,Occasionnel,1x/mois ou +,Industriel,9,Centre,Pratiquant,1-3h/j,Jamais,1x/an
+43,Femme,2294,Bac,Campagne,Jamais,Régulier,1x/an,Végétarien,7,Gauche,Athée,Jamais,Jamais,4x+/an
+46,Homme,3002,Doctorat,Campagne,1-2x/sem,Jamais,1x/an,Bio,8,Gauche,Athée,<1h/j,1x/mois,1x/an
+19,Femme,2207,Bac+2,Grande ville,Rarement,Jamais,1x/mois ou +,Bio,6,Apolitique,Athée,1-3h/j,1x/sem,Jamais
+39,Femme,2247,Doctorat,Banlieue,3x+/sem,Occasionnel,1x/an,Industriel,3,Gauche,Athée,<1h/j,1x/sem,1x/an
+46,Homme,1831,Bac+5,Grande ville,Rarement,Jamais,2-4x/an,Industriel,8,Gauche,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+26,Homme,1693,Aucun,Grande ville,Jamais,Régulier,2-4x/an,Végétarien,6,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+58,Homme,2939,Aucun,Campagne,3x+/sem,Occasionnel,1x/an,Équilibré,4,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+38,Homme,2299,Bac+5,Grande ville,3x+/sem,Occasionnel,2-4x/an,Industriel,5,Gauche,Agnostique,3h+/j,1x/sem,Jamais
+49,Femme,2269,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+49,Femme,1513,Bac+5,Banlieue,Jamais,Régulier,1x/mois ou +,Bio,5,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,Jamais
+64,Homme,1723,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Bio,1,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+61,Homme,3653,Bac,Campagne,1-2x/sem,Occasionnel,1x/mois ou +,Industriel,1,Droite,Agnostique,1-3h/j,1x/sem,1x/an
+57,Homme,1945,Bac+5,Grande ville,Jamais,Jamais,2-4x/an,Bio,1,Droite,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+43,Femme,3060,Aucun,Ville moyenne,Rarement,Jamais,2-4x/an,Équilibré,7,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+65,Homme,1583,Bac+5,Ville moyenne,Jamais,Occasionnel,1x/mois ou +,Industriel,4,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+30,Homme,2641,Bac+5,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Bio,5,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+20,Femme,2231,Bac+5,Grande ville,Rarement,Occasionnel,1x/mois ou +,Industriel,8,Centre,Croyant non pratiquant,3h+/j,1x/mois,4x+/an
+49,Homme,1677,Aucun,Grande ville,Rarement,Régulier,2-4x/an,Industriel,5,Apolitique,Athée,<1h/j,Jamais,2-3x/an
+50,Femme,2518,Bac,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,3,Apolitique,Athée,Jamais,1x/mois,2-3x/an
+50,Femme,765,Bac+2,Banlieue,1-2x/sem,Régulier,1x/mois ou +,Bio,5,Droite,Athée,3h+/j,1x/sem,1x/an
+59,Homme,2459,Bac+2,Grande ville,Rarement,Jamais,2-4x/an,Industriel,6,Centre,Athée,1-3h/j,1x/mois,Jamais
+59,Femme,2629,Aucun,Ville moyenne,1-2x/sem,Jamais,1x/mois ou +,Équilibré,4,Centre,Athée,1-3h/j,1x/mois,2-3x/an
+30,Femme,2218,Bac,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,10,Apolitique,Croyant non pratiquant,3h+/j,1x/sem,2-3x/an
+60,Homme,3048,Doctorat,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,2,Gauche,Pratiquant,1-3h/j,1x/sem,2-3x/an
+23,Homme,1945,Bac,Banlieue,3x+/sem,Occasionnel,2-4x/an,Industriel,8,Apolitique,Pratiquant,<1h/j,1x/mois,1x/an
+21,Homme,1880,Bac+2,Grande ville,1-2x/sem,Jamais,1x/an,Équilibré,9,Droite,Croyant non pratiquant,<1h/j,1x/sem,4x+/an
+55,Homme,2284,Bac+5,Campagne,3x+/sem,Occasionnel,1x/an,Industriel,4,Droite,Pratiquant,<1h/j,1x/mois,2-3x/an
+23,Homme,2694,Bac+2,Ville moyenne,Jamais,Occasionnel,1x/an,Végétarien,2,Gauche,Agnostique,1-3h/j,1x/mois,1x/an
+68,Homme,2455,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,2,Gauche,Pratiquant,Jamais,1x/sem,1x/an
+20,Femme,1818,Bac+2,Banlieue,1-2x/sem,Jamais,2-4x/an,Équilibré,9,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+44,Femme,1203,Bac+5,Banlieue,Jamais,Régulier,1x/mois ou +,Bio,5,Apolitique,Athée,3h+/j,2x+/sem,2-3x/an
+57,Femme,2530,Bac+2,Grande ville,1-2x/sem,Régulier,1x/an,Végétarien,1,Droite,Croyant non pratiquant,Jamais,2x+/sem,Jamais
+37,Homme,1368,Bac,Ville moyenne,Rarement,Jamais,1x/mois ou +,Industriel,6,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+35,Homme,1345,Bac,Ville moyenne,3x+/sem,Jamais,1x/an,Industriel,1,Centre,Athée,Jamais,1x/mois,Jamais
+37,Homme,1476,Doctorat,Grande ville,3x+/sem,Jamais,1x/an,Équilibré,4,Centre,Athée,1-3h/j,1x/sem,Jamais
+47,Homme,2046,Bac+2,Ville moyenne,Rarement,Jamais,2-4x/an,Bio,1,Gauche,Athée,3h+/j,1x/mois,4x+/an
+27,Homme,1362,Bac+5,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Bio,10,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+69,Femme,1091,Bac+2,Grande ville,Jamais,Occasionnel,1x/an,Industriel,8,Centre,Pratiquant,<1h/j,2x+/sem,4x+/an
+40,Homme,1472,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Industriel,10,Droite,Agnostique,<1h/j,1x/mois,1x/an
+64,Femme,1853,Bac,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Équilibré,3,Centre,Athée,<1h/j,1x/mois,Jamais
+20,Homme,2363,Bac+5,Grande ville,3x+/sem,Régulier,2-4x/an,Bio,3,Gauche,Pratiquant,3h+/j,Jamais,1x/an
+69,Homme,2053,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,3,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+67,Homme,1135,Bac+5,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,9,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+26,Femme,2182,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,10,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+66,Femme,2258,Bac,Grande ville,Jamais,Occasionnel,1x/an,Équilibré,10,Apolitique,Croyant non pratiquant,<1h/j,2x+/sem,2-3x/an
+36,Homme,1636,Bac,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,1,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,Jamais
+53,Femme,1363,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,6,Gauche,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+57,Homme,1362,Bac+2,Ville moyenne,3x+/sem,Régulier,1x/an,Industriel,4,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+44,Femme,1574,Doctorat,Campagne,1-2x/sem,Jamais,1x/an,Équilibré,8,Gauche,Athée,<1h/j,2x+/sem,2-3x/an
+59,Homme,3771,Bac,Banlieue,3x+/sem,Occasionnel,2-4x/an,Bio,8,Apolitique,Agnostique,<1h/j,1x/mois,1x/an
+45,Homme,1288,Bac+5,Grande ville,Rarement,Régulier,1x/an,Équilibré,10,Apolitique,Agnostique,1-3h/j,Jamais,1x/an
+60,Homme,2212,Doctorat,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,5,Centre,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+68,Homme,1428,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,4,Apolitique,Athée,<1h/j,1x/mois,4x+/an
+25,Femme,1595,Bac+5,Banlieue,Rarement,Régulier,Jamais,Bio,4,Gauche,Athée,3h+/j,1x/mois,1x/an
+59,Femme,1435,Bac,Banlieue,Rarement,Régulier,2-4x/an,Équilibré,3,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+65,Femme,2640,Bac,Banlieue,Rarement,Occasionnel,1x/an,Équilibré,4,Droite,Agnostique,1-3h/j,1x/sem,1x/an
+25,Homme,2303,Bac,Ville moyenne,Rarement,Occasionnel,1x/an,Équilibré,2,Gauche,Croyant non pratiquant,<1h/j,1x/mois,4x+/an
+35,Homme,1896,Bac+2,Grande ville,3x+/sem,Régulier,1x/an,Bio,1,Centre,Agnostique,<1h/j,1x/sem,1x/an
+38,Homme,2402,Bac+2,Grande ville,1-2x/sem,Occasionnel,Jamais,Végétarien,7,Apolitique,Agnostique,3h+/j,1x/mois,2-3x/an
+63,Homme,2594,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,4,Centre,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+30,Femme,1319,Bac+5,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Industriel,4,Droite,Agnostique,3h+/j,1x/mois,1x/an
+44,Femme,2437,Bac,Grande ville,Jamais,Occasionnel,2-4x/an,Industriel,3,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+64,Femme,1425,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Bio,8,Droite,Agnostique,1-3h/j,1x/sem,2-3x/an
+57,Femme,2670,Bac,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,8,Centre,Agnostique,Jamais,1x/mois,Jamais
+33,Homme,2592,Bac+5,Grande ville,Jamais,Jamais,1x/an,Bio,10,Apolitique,Athée,<1h/j,Jamais,Jamais
+57,Homme,2322,Doctorat,Grande ville,1-2x/sem,Régulier,2-4x/an,Végétarien,5,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+26,Femme,1832,Bac+2,Grande ville,Rarement,Jamais,1x/mois ou +,Bio,9,Centre,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+44,Femme,1579,Bac+5,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,1,Centre,Athée,3h+/j,1x/sem,4x+/an
+34,Homme,1789,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/an,Équilibré,1,Gauche,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+20,Homme,2615,Bac+2,Banlieue,Rarement,Régulier,1x/mois ou +,Végétarien,8,Droite,Athée,3h+/j,1x/sem,1x/an
+21,Homme,1454,Bac+5,Banlieue,1-2x/sem,Régulier,Jamais,Industriel,8,Apolitique,Agnostique,1-3h/j,2x+/sem,1x/an
+57,Homme,2039,Bac,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,1,Gauche,Athée,3h+/j,2x+/sem,2-3x/an
+69,Femme,601,Bac+2,Grande ville,Jamais,Jamais,1x/mois ou +,Végétarien,5,Centre,Athée,1-3h/j,1x/mois,4x+/an
+18,Homme,2208,Bac+2,Grande ville,Jamais,Régulier,1x/an,Bio,3,Centre,Croyant non pratiquant,3h+/j,2x+/sem,4x+/an
+31,Homme,1171,Bac+5,Campagne,Rarement,Occasionnel,Jamais,Bio,8,Droite,Croyant non pratiquant,<1h/j,1x/mois,4x+/an
+25,Homme,945,Bac,Campagne,3x+/sem,Régulier,1x/an,Équilibré,9,Gauche,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+24,Femme,2414,Bac+5,Ville moyenne,1-2x/sem,Jamais,Jamais,Industriel,1,Droite,Athée,1-3h/j,1x/sem,2-3x/an
+47,Femme,2168,Bac,Ville moyenne,1-2x/sem,Jamais,2-4x/an,Équilibré,10,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+42,Femme,1645,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Industriel,4,Gauche,Agnostique,<1h/j,1x/sem,2-3x/an
+56,Femme,1758,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Bio,6,Centre,Agnostique,1-3h/j,1x/mois,2-3x/an
+33,Homme,3816,Doctorat,Campagne,Rarement,Jamais,1x/mois ou +,Bio,8,Gauche,Athée,3h+/j,Jamais,Jamais
+28,Homme,1844,Bac,Grande ville,1-2x/sem,Occasionnel,Jamais,Végétarien,9,Droite,Athée,<1h/j,1x/mois,1x/an
+42,Femme,1839,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,5,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+50,Femme,2521,Bac,Campagne,1-2x/sem,Jamais,1x/mois ou +,Équilibré,2,Droite,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+69,Femme,2069,Bac+5,Grande ville,Rarement,Jamais,2-4x/an,Bio,9,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+68,Homme,2789,Bac,Grande ville,1-2x/sem,Jamais,1x/an,Végétarien,9,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+65,Homme,2221,Doctorat,Grande ville,Rarement,Jamais,2-4x/an,Équilibré,5,Gauche,Athée,Jamais,1x/mois,4x+/an
+38,Homme,2608,Doctorat,Grande ville,1-2x/sem,Régulier,1x/an,Industriel,10,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+69,Homme,2354,Bac+2,Grande ville,Jamais,Occasionnel,1x/mois ou +,Végétarien,9,Gauche,Agnostique,<1h/j,Jamais,4x+/an
+69,Homme,2516,Aucun,Banlieue,Jamais,Occasionnel,1x/mois ou +,Équilibré,7,Apolitique,Athée,3h+/j,1x/sem,1x/an
+27,Homme,1965,Doctorat,Banlieue,1-2x/sem,Jamais,2-4x/an,Bio,10,Apolitique,Pratiquant,1-3h/j,1x/mois,1x/an
+67,Homme,2178,Bac+5,Grande ville,1-2x/sem,Régulier,2-4x/an,Végétarien,1,Apolitique,Pratiquant,<1h/j,1x/sem,2-3x/an
+26,Femme,1783,Bac+2,Ville moyenne,Rarement,Jamais,1x/an,Équilibré,10,Gauche,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+18,Femme,2483,Bac+2,Banlieue,3x+/sem,Régulier,2-4x/an,Bio,1,Droite,Pratiquant,1-3h/j,2x+/sem,1x/an
+51,Homme,923,Bac,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,4,Apolitique,Pratiquant,<1h/j,1x/mois,1x/an
+48,Femme,2580,Bac,Grande ville,Jamais,Jamais,1x/an,Industriel,1,Gauche,Pratiquant,<1h/j,1x/mois,2-3x/an
+38,Femme,2798,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Équilibré,3,Centre,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+41,Femme,2593,Aucun,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Bio,9,Gauche,Agnostique,Jamais,1x/sem,2-3x/an
+36,Femme,1916,Bac+5,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,7,Gauche,Pratiquant,<1h/j,2x+/sem,2-3x/an
+65,Femme,2404,Doctorat,Banlieue,Rarement,Occasionnel,Jamais,Équilibré,10,Gauche,Athée,1-3h/j,1x/sem,4x+/an
+38,Femme,1378,Bac+5,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Équilibré,1,Gauche,Pratiquant,1-3h/j,2x+/sem,Jamais
+42,Homme,2669,Bac+2,Campagne,1-2x/sem,Jamais,2-4x/an,Industriel,3,Centre,Athée,1-3h/j,2x+/sem,Jamais
+37,Femme,1120,Bac+5,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Industriel,2,Gauche,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+43,Femme,2474,Bac+5,Campagne,Rarement,Occasionnel,2-4x/an,Végétarien,1,Droite,Agnostique,1-3h/j,1x/sem,1x/an
+24,Homme,2426,Bac+2,Banlieue,3x+/sem,Jamais,1x/mois ou +,Bio,9,Centre,Agnostique,<1h/j,1x/mois,4x+/an
+20,Homme,2325,Bac,Ville moyenne,3x+/sem,Jamais,2-4x/an,Industriel,3,Gauche,Agnostique,3h+/j,1x/mois,2-3x/an
+57,Homme,1642,Aucun,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,9,Centre,Croyant non pratiquant,Jamais,2x+/sem,1x/an
+65,Homme,2608,Bac+2,Grande ville,Jamais,Jamais,1x/an,Bio,3,Gauche,Pratiquant,1-3h/j,1x/sem,4x+/an
+25,Femme,530,Bac,Ville moyenne,3x+/sem,Régulier,Jamais,Équilibré,5,Gauche,Athée,3h+/j,1x/mois,4x+/an
+47,Homme,2621,Bac,Grande ville,Rarement,Régulier,2-4x/an,Bio,1,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+28,Homme,2153,Bac+2,Ville moyenne,3x+/sem,Régulier,1x/an,Végétarien,3,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+25,Femme,2840,Bac+2,Banlieue,Rarement,Régulier,1x/mois ou +,Industriel,2,Droite,Agnostique,1-3h/j,1x/sem,1x/an
+54,Homme,2160,Bac+2,Ville moyenne,Jamais,Régulier,2-4x/an,Industriel,8,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+34,Femme,3470,Bac,Grande ville,3x+/sem,Régulier,1x/mois ou +,Végétarien,2,Droite,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+25,Homme,1246,Bac+2,Banlieue,1-2x/sem,Régulier,2-4x/an,Industriel,5,Droite,Agnostique,3h+/j,Jamais,2-3x/an
+64,Femme,2487,Bac+2,Banlieue,Rarement,Régulier,1x/mois ou +,Industriel,9,Gauche,Athée,1-3h/j,1x/sem,2-3x/an
+61,Homme,1291,Bac,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Équilibré,8,Gauche,Athée,3h+/j,1x/sem,2-3x/an
+47,Femme,1898,Bac+2,Ville moyenne,3x+/sem,Occasionnel,1x/an,Végétarien,8,Gauche,Pratiquant,<1h/j,1x/sem,Jamais
+60,Homme,2593,Bac+2,Ville moyenne,Jamais,Jamais,2-4x/an,Industriel,10,Gauche,Pratiquant,1-3h/j,1x/mois,1x/an
+60,Femme,2500,Doctorat,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Industriel,9,Gauche,Agnostique,1-3h/j,1x/mois,2-3x/an
+33,Homme,3663,Bac+5,Campagne,Rarement,Occasionnel,2-4x/an,Industriel,10,Centre,Athée,Jamais,1x/sem,2-3x/an
+21,Femme,1718,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,10,Centre,Athée,3h+/j,2x+/sem,1x/an
+38,Homme,3028,Bac+5,Grande ville,1-2x/sem,Jamais,Jamais,Équilibré,7,Gauche,Athée,1-3h/j,1x/sem,1x/an
+67,Femme,1796,Bac+2,Ville moyenne,Rarement,Régulier,2-4x/an,Bio,10,Centre,Pratiquant,<1h/j,1x/mois,Jamais
+51,Homme,1439,Bac+5,Grande ville,1-2x/sem,Régulier,2-4x/an,Bio,6,Gauche,Croyant non pratiquant,<1h/j,Jamais,Jamais
+57,Femme,701,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,2,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+52,Homme,2130,Aucun,Banlieue,3x+/sem,Régulier,1x/an,Industriel,4,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+30,Homme,1582,Bac,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Industriel,9,Gauche,Agnostique,1-3h/j,1x/mois,1x/an
+60,Femme,2678,Doctorat,Grande ville,3x+/sem,Occasionnel,2-4x/an,Végétarien,8,Apolitique,Athée,<1h/j,1x/mois,1x/an
+44,Femme,1577,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Apolitique,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+25,Homme,1618,Bac,Grande ville,Rarement,Occasionnel,Jamais,Industriel,5,Gauche,Croyant non pratiquant,1-3h/j,2x+/sem,2-3x/an
+58,Homme,2283,Bac,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,3,Apolitique,Pratiquant,1-3h/j,1x/mois,Jamais
+59,Femme,3376,Bac+2,Grande ville,3x+/sem,Occasionnel,2-4x/an,Équilibré,6,Gauche,Pratiquant,1-3h/j,1x/mois,2-3x/an
+46,Femme,1129,Bac,Campagne,1-2x/sem,Jamais,1x/an,Bio,1,Droite,Agnostique,1-3h/j,Jamais,Jamais
+33,Femme,2814,Bac,Banlieue,Rarement,Régulier,1x/mois ou +,Industriel,4,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+60,Femme,2699,Doctorat,Grande ville,1-2x/sem,Jamais,1x/an,Équilibré,10,Apolitique,Agnostique,1-3h/j,1x/sem,Jamais
+63,Femme,1823,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/an,Bio,9,Gauche,Agnostique,<1h/j,Jamais,1x/an
+22,Homme,2540,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,7,Apolitique,Agnostique,3h+/j,2x+/sem,1x/an
+54,Homme,1772,Bac+5,Grande ville,Jamais,Occasionnel,2-4x/an,Bio,7,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+57,Femme,3897,Aucun,Ville moyenne,3x+/sem,Régulier,Jamais,Industriel,9,Apolitique,Pratiquant,<1h/j,Jamais,1x/an
+57,Homme,1910,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Bio,6,Apolitique,Croyant non pratiquant,1-3h/j,2x+/sem,Jamais
+59,Homme,2064,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,10,Centre,Croyant non pratiquant,Jamais,1x/mois,1x/an
+27,Homme,1739,Doctorat,Campagne,1-2x/sem,Occasionnel,2-4x/an,Industriel,5,Droite,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+32,Homme,645,Bac+2,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,8,Gauche,Athée,1-3h/j,1x/sem,1x/an
+38,Homme,1789,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/an,Bio,5,Centre,Pratiquant,<1h/j,1x/mois,4x+/an
+51,Femme,2185,Bac+2,Ville moyenne,Rarement,Jamais,1x/an,Industriel,10,Gauche,Pratiquant,1-3h/j,1x/mois,1x/an
+39,Homme,3200,Doctorat,Banlieue,3x+/sem,Occasionnel,Jamais,Équilibré,8,Gauche,Agnostique,Jamais,1x/sem,1x/an
+39,Femme,2393,Bac+5,Ville moyenne,3x+/sem,Jamais,Jamais,Équilibré,3,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+26,Homme,1848,Bac+5,Campagne,1-2x/sem,Jamais,1x/mois ou +,Industriel,5,Gauche,Athée,1-3h/j,Jamais,Jamais
+43,Femme,2047,Bac,Ville moyenne,Rarement,Jamais,2-4x/an,Équilibré,6,Droite,Athée,<1h/j,1x/mois,1x/an
+30,Homme,2261,Aucun,Ville moyenne,Rarement,Occasionnel,1x/an,Végétarien,10,Gauche,Athée,3h+/j,2x+/sem,Jamais
+35,Homme,1696,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/mois ou +,Végétarien,10,Centre,Athée,<1h/j,1x/mois,1x/an
+18,Femme,2545,Doctorat,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Bio,6,Gauche,Agnostique,Jamais,1x/sem,2-3x/an
+40,Homme,3300,Doctorat,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,8,Centre,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+50,Femme,1709,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Équilibré,10,Gauche,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+64,Homme,2966,Bac,Campagne,Rarement,Occasionnel,2-4x/an,Bio,10,Gauche,Athée,3h+/j,1x/sem,1x/an
+48,Homme,2701,Aucun,Grande ville,Jamais,Occasionnel,2-4x/an,Industriel,10,Droite,Athée,Jamais,Jamais,2-3x/an
+38,Homme,2429,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Végétarien,8,Droite,Athée,<1h/j,2x+/sem,2-3x/an
+40,Femme,2089,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,9,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+33,Femme,2270,Bac,Ville moyenne,3x+/sem,Régulier,Jamais,Bio,6,Apolitique,Pratiquant,<1h/j,Jamais,2-3x/an
+44,Femme,1826,Bac+5,Grande ville,Rarement,Occasionnel,1x/mois ou +,Équilibré,10,Gauche,Agnostique,<1h/j,1x/sem,2-3x/an
+54,Homme,3469,Aucun,Campagne,1-2x/sem,Jamais,2-4x/an,Équilibré,2,Centre,Athée,1-3h/j,1x/sem,1x/an
+55,Homme,1425,Aucun,Campagne,1-2x/sem,Régulier,1x/mois ou +,Bio,5,Apolitique,Agnostique,<1h/j,Jamais,2-3x/an
+69,Homme,2907,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Équilibré,6,Gauche,Pratiquant,<1h/j,1x/sem,2-3x/an
+31,Femme,3239,Bac+2,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,5,Centre,Agnostique,<1h/j,1x/mois,1x/an
+54,Femme,1741,Aucun,Campagne,Rarement,Régulier,1x/an,Bio,1,Gauche,Athée,1-3h/j,Jamais,2-3x/an
+64,Femme,2932,Bac+2,Grande ville,Jamais,Régulier,2-4x/an,Équilibré,7,Droite,Croyant non pratiquant,<1h/j,Jamais,4x+/an
+24,Femme,2115,Bac+2,Banlieue,1-2x/sem,Régulier,2-4x/an,Équilibré,2,Droite,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+29,Homme,2049,Doctorat,Ville moyenne,1-2x/sem,Jamais,2-4x/an,Industriel,9,Apolitique,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+45,Homme,1940,Aucun,Banlieue,1-2x/sem,Régulier,2-4x/an,Bio,6,Apolitique,Croyant non pratiquant,Jamais,2x+/sem,Jamais
+20,Femme,709,Bac,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Végétarien,9,Droite,Athée,1-3h/j,1x/sem,Jamais
+39,Femme,2438,Bac,Banlieue,Rarement,Occasionnel,2-4x/an,Industriel,2,Gauche,Agnostique,3h+/j,2x+/sem,4x+/an
+68,Femme,3154,Bac,Banlieue,Rarement,Occasionnel,1x/an,Équilibré,7,Gauche,Athée,<1h/j,2x+/sem,1x/an
+38,Femme,1436,Bac+5,Campagne,1-2x/sem,Régulier,2-4x/an,Équilibré,8,Gauche,Pratiquant,1-3h/j,Jamais,2-3x/an
+46,Homme,2677,Doctorat,Banlieue,Rarement,Jamais,1x/an,Équilibré,5,Gauche,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+37,Homme,1931,Doctorat,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,10,Droite,Athée,1-3h/j,2x+/sem,1x/an
+20,Femme,1125,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Végétarien,5,Droite,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+44,Homme,2798,Aucun,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,10,Centre,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+38,Homme,3348,Bac+2,Grande ville,Jamais,Jamais,1x/mois ou +,Équilibré,5,Droite,Pratiquant,1-3h/j,1x/mois,2-3x/an
+58,Homme,1364,Bac+2,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,5,Centre,Agnostique,Jamais,1x/mois,1x/an
+50,Homme,2172,Aucun,Ville moyenne,Jamais,Jamais,1x/an,Industriel,10,Gauche,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+47,Homme,848,Bac+5,Campagne,3x+/sem,Régulier,Jamais,Végétarien,10,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,Jamais
+65,Femme,1966,Bac+2,Banlieue,Rarement,Occasionnel,1x/an,Industriel,8,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,4x+/an
+56,Femme,2388,Bac+2,Grande ville,1-2x/sem,Régulier,1x/an,Industriel,6,Centre,Agnostique,3h+/j,1x/mois,Jamais
+58,Homme,3402,Bac+5,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,2,Droite,Athée,1-3h/j,1x/mois,Jamais
+26,Femme,3246,Bac+5,Banlieue,Rarement,Régulier,2-4x/an,Industriel,2,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+65,Homme,3313,Doctorat,Campagne,Jamais,Occasionnel,2-4x/an,Industriel,10,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+55,Femme,1578,Bac,Grande ville,3x+/sem,Régulier,1x/an,Équilibré,5,Apolitique,Pratiquant,3h+/j,1x/sem,1x/an
+40,Femme,1803,Bac,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,4,Gauche,Athée,1-3h/j,2x+/sem,1x/an
+40,Femme,668,Bac,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,9,Centre,Athée,3h+/j,1x/mois,2-3x/an
+18,Femme,1427,Doctorat,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,1,Gauche,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+38,Femme,838,Aucun,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+49,Homme,2292,Doctorat,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,8,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+62,Homme,1442,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,1,Droite,Athée,1-3h/j,1x/sem,1x/an
+43,Femme,1118,Aucun,Banlieue,Rarement,Occasionnel,1x/an,Bio,8,Gauche,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+50,Femme,1715,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,7,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+26,Homme,1052,Bac+5,Grande ville,Rarement,Régulier,1x/an,Bio,1,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+34,Femme,2247,Bac,Campagne,3x+/sem,Jamais,1x/mois ou +,Bio,2,Droite,Pratiquant,1-3h/j,2x+/sem,4x+/an
+23,Homme,2227,Bac,Grande ville,Rarement,Occasionnel,1x/an,Végétarien,10,Centre,Athée,<1h/j,1x/mois,2-3x/an
+63,Homme,1747,Bac+5,Grande ville,3x+/sem,Régulier,1x/mois ou +,Équilibré,8,Centre,Agnostique,1-3h/j,1x/sem,2-3x/an
+24,Homme,1415,Bac+5,Campagne,Rarement,Régulier,1x/an,Équilibré,4,Apolitique,Agnostique,1-3h/j,1x/mois,1x/an
+24,Homme,928,Bac,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Végétarien,7,Gauche,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+54,Homme,2444,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,1,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+22,Femme,2182,Bac,Campagne,1-2x/sem,Jamais,2-4x/an,Industriel,6,Apolitique,Agnostique,3h+/j,Jamais,2-3x/an
+50,Homme,2371,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Végétarien,2,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+67,Homme,1754,Doctorat,Grande ville,Rarement,Régulier,1x/mois ou +,Industriel,6,Apolitique,Athée,1-3h/j,1x/mois,1x/an
+27,Femme,1825,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,5,Apolitique,Pratiquant,1-3h/j,1x/sem,Jamais
+34,Femme,3153,Bac+2,Ville moyenne,Jamais,Occasionnel,1x/an,Équilibré,8,Gauche,Athée,3h+/j,Jamais,4x+/an
+57,Homme,1519,Bac+5,Ville moyenne,Jamais,Occasionnel,2-4x/an,Équilibré,2,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+45,Homme,1749,Bac,Ville moyenne,Jamais,Occasionnel,2-4x/an,Bio,6,Droite,Agnostique,Jamais,Jamais,1x/an
+64,Femme,2595,Bac+2,Banlieue,1-2x/sem,Régulier,1x/an,Équilibré,3,Apolitique,Pratiquant,1-3h/j,1x/sem,2-3x/an
+63,Femme,2242,Doctorat,Banlieue,Rarement,Occasionnel,1x/an,Bio,9,Gauche,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+39,Femme,500,Bac+5,Grande ville,Rarement,Occasionnel,2-4x/an,Bio,6,Gauche,Agnostique,1-3h/j,1x/sem,4x+/an
+38,Femme,649,Bac+5,Grande ville,Jamais,Régulier,1x/an,Équilibré,4,Apolitique,Pratiquant,Jamais,1x/sem,Jamais
+64,Homme,1471,Doctorat,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,10,Centre,Athée,1-3h/j,1x/mois,1x/an
+49,Homme,2728,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,3,Centre,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+49,Femme,2537,Bac+5,Ville moyenne,Rarement,Régulier,2-4x/an,Industriel,7,Gauche,Agnostique,<1h/j,2x+/sem,Jamais
+68,Homme,2415,Doctorat,Grande ville,3x+/sem,Régulier,2-4x/an,Bio,10,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+53,Homme,2502,Bac+5,Banlieue,Rarement,Jamais,1x/an,Bio,2,Droite,Agnostique,1-3h/j,Jamais,2-3x/an
+48,Femme,1224,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,3,Gauche,Agnostique,1-3h/j,Jamais,Jamais
+23,Homme,2480,Bac,Banlieue,1-2x/sem,Régulier,1x/mois ou +,Industriel,2,Droite,Athée,1-3h/j,1x/mois,1x/an
+38,Homme,1262,Bac+2,Grande ville,Rarement,Régulier,2-4x/an,Industriel,4,Gauche,Agnostique,1-3h/j,Jamais,Jamais
+52,Femme,2757,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Bio,4,Apolitique,Pratiquant,3h+/j,Jamais,Jamais
+31,Femme,1591,Bac,Banlieue,Rarement,Occasionnel,1x/mois ou +,Équilibré,8,Gauche,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+40,Homme,2225,Bac,Grande ville,Jamais,Régulier,1x/an,Équilibré,1,Centre,Pratiquant,1-3h/j,1x/sem,2-3x/an
+59,Femme,500,Aucun,Grande ville,Rarement,Régulier,2-4x/an,Bio,5,Apolitique,Pratiquant,1-3h/j,1x/sem,Jamais
+41,Homme,920,Bac+5,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,2,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+47,Homme,2872,Aucun,Campagne,3x+/sem,Occasionnel,1x/an,Équilibré,8,Apolitique,Athée,1-3h/j,2x+/sem,1x/an
+27,Homme,2553,Bac+2,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,8,Centre,Croyant non pratiquant,<1h/j,1x/mois,4x+/an
+22,Femme,1025,Bac+5,Campagne,Rarement,Régulier,1x/an,Équilibré,6,Droite,Athée,1-3h/j,1x/mois,1x/an
+59,Homme,3028,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,8,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+47,Homme,1127,Bac+5,Grande ville,3x+/sem,Occasionnel,Jamais,Bio,7,Droite,Agnostique,3h+/j,1x/sem,2-3x/an
+24,Homme,2015,Bac+5,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,7,Gauche,Agnostique,3h+/j,1x/sem,Jamais
+23,Femme,1615,Bac+5,Grande ville,Rarement,Jamais,1x/mois ou +,Bio,5,Gauche,Agnostique,Jamais,1x/sem,4x+/an
+25,Homme,1261,Aucun,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Industriel,6,Centre,Athée,<1h/j,2x+/sem,2-3x/an
+69,Homme,2934,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Végétarien,7,Droite,Athée,1-3h/j,Jamais,2-3x/an
+43,Homme,3347,Aucun,Banlieue,Jamais,Occasionnel,Jamais,Équilibré,6,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+35,Homme,2142,Bac+2,Grande ville,3x+/sem,Régulier,1x/an,Industriel,1,Centre,Croyant non pratiquant,3h+/j,1x/sem,Jamais
+53,Femme,3220,Bac,Banlieue,Rarement,Occasionnel,1x/an,Industriel,7,Gauche,Pratiquant,<1h/j,2x+/sem,1x/an
+43,Homme,1775,Bac+2,Campagne,Rarement,Occasionnel,2-4x/an,Bio,7,Apolitique,Athée,Jamais,1x/sem,1x/an
+53,Femme,2086,Bac,Banlieue,1-2x/sem,Jamais,1x/mois ou +,Bio,9,Apolitique,Croyant non pratiquant,3h+/j,Jamais,Jamais
+58,Homme,2105,Bac+5,Campagne,Rarement,Régulier,1x/an,Équilibré,9,Centre,Croyant non pratiquant,1-3h/j,1x/mois,4x+/an
+21,Homme,1074,Bac,Grande ville,1-2x/sem,Régulier,2-4x/an,Bio,8,Centre,Croyant non pratiquant,Jamais,1x/sem,2-3x/an
+30,Femme,2399,Bac,Ville moyenne,3x+/sem,Occasionnel,1x/an,Équilibré,5,Apolitique,Croyant non pratiquant,3h+/j,Jamais,2-3x/an
+41,Homme,2567,Aucun,Campagne,Rarement,Régulier,1x/an,Bio,1,Gauche,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+48,Femme,1861,Bac,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,4,Apolitique,Agnostique,1-3h/j,2x+/sem,2-3x/an
+39,Homme,646,Aucun,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Bio,1,Apolitique,Croyant non pratiquant,3h+/j,Jamais,1x/an
+57,Femme,2294,Bac+2,Ville moyenne,Rarement,Jamais,1x/an,Végétarien,3,Centre,Athée,3h+/j,Jamais,Jamais
+35,Homme,787,Aucun,Grande ville,Rarement,Régulier,1x/mois ou +,Végétarien,10,Gauche,Athée,1-3h/j,1x/sem,2-3x/an
+51,Femme,1350,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Industriel,4,Centre,Agnostique,1-3h/j,1x/mois,1x/an
+40,Homme,2105,Bac+2,Grande ville,3x+/sem,Régulier,2-4x/an,Équilibré,10,Droite,Croyant non pratiquant,<1h/j,2x+/sem,1x/an
+56,Femme,1384,Doctorat,Ville moyenne,Rarement,Régulier,Jamais,Industriel,1,Gauche,Pratiquant,Jamais,1x/mois,2-3x/an
+64,Femme,2202,Bac+2,Campagne,1-2x/sem,Occasionnel,Jamais,Équilibré,6,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+54,Femme,1819,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Gauche,Athée,Jamais,1x/mois,1x/an
+64,Homme,695,Aucun,Campagne,1-2x/sem,Jamais,2-4x/an,Équilibré,5,Gauche,Athée,Jamais,1x/sem,2-3x/an
+18,Femme,2134,Bac+2,Campagne,1-2x/sem,Régulier,2-4x/an,Végétarien,4,Apolitique,Athée,1-3h/j,2x+/sem,Jamais
+59,Homme,2469,Bac+2,Banlieue,1-2x/sem,Régulier,1x/mois ou +,Bio,7,Gauche,Athée,1-3h/j,Jamais,Jamais
+37,Homme,2809,Bac,Banlieue,1-2x/sem,Occasionnel,1x/an,Bio,10,Apolitique,Croyant non pratiquant,3h+/j,Jamais,Jamais
+64,Femme,1706,Bac+5,Ville moyenne,3x+/sem,Occasionnel,1x/an,Industriel,3,Droite,Athée,<1h/j,Jamais,1x/an
+42,Homme,1950,Bac+2,Ville moyenne,Rarement,Jamais,2-4x/an,Végétarien,6,Gauche,Pratiquant,Jamais,1x/mois,4x+/an
+23,Homme,803,Bac,Ville moyenne,3x+/sem,Régulier,1x/an,Industriel,1,Apolitique,Athée,1-3h/j,1x/mois,4x+/an
+69,Homme,3571,Bac+5,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Bio,1,Gauche,Agnostique,<1h/j,1x/sem,4x+/an
+47,Femme,3204,Bac+5,Banlieue,1-2x/sem,Régulier,2-4x/an,Bio,5,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+37,Homme,1974,Bac,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,10,Gauche,Croyant non pratiquant,Jamais,1x/mois,1x/an
+26,Homme,1900,Bac+5,Campagne,Jamais,Occasionnel,2-4x/an,Équilibré,6,Centre,Pratiquant,3h+/j,1x/sem,2-3x/an
+65,Femme,500,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,9,Droite,Athée,1-3h/j,2x+/sem,2-3x/an
+66,Femme,2828,Bac,Ville moyenne,Rarement,Régulier,1x/an,Industriel,8,Centre,Agnostique,Jamais,1x/sem,1x/an
+35,Homme,2450,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Bio,3,Droite,Athée,1-3h/j,Jamais,2-3x/an
+57,Femme,2650,Bac+5,Campagne,1-2x/sem,Occasionnel,1x/an,Équilibré,8,Apolitique,Agnostique,1-3h/j,Jamais,2-3x/an
+20,Femme,1675,Bac+2,Campagne,3x+/sem,Jamais,1x/mois ou +,Industriel,2,Centre,Croyant non pratiquant,1-3h/j,Jamais,2-3x/an
+53,Homme,1624,Bac+5,Grande ville,1-2x/sem,Régulier,1x/an,Bio,3,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+23,Homme,1011,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Industriel,5,Apolitique,Pratiquant,3h+/j,1x/mois,2-3x/an
+61,Homme,2622,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,5,Apolitique,Agnostique,<1h/j,1x/sem,2-3x/an
+55,Femme,3001,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,8,Gauche,Agnostique,1-3h/j,Jamais,4x+/an
+18,Homme,2899,Bac+2,Banlieue,1-2x/sem,Occasionnel,Jamais,Équilibré,9,Centre,Athée,1-3h/j,1x/sem,1x/an
+36,Homme,2149,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/an,Végétarien,5,Gauche,Agnostique,1-3h/j,1x/mois,1x/an
+55,Femme,1738,Bac+5,Grande ville,3x+/sem,Jamais,1x/mois ou +,Industriel,5,Apolitique,Pratiquant,3h+/j,1x/mois,2-3x/an
+45,Homme,1158,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,4,Gauche,Athée,3h+/j,2x+/sem,2-3x/an
+64,Homme,1438,Bac,Ville moyenne,3x+/sem,Régulier,1x/an,Industriel,3,Gauche,Athée,<1h/j,1x/mois,2-3x/an
+26,Femme,2374,Bac,Ville moyenne,3x+/sem,Régulier,1x/an,Bio,2,Gauche,Athée,1-3h/j,Jamais,1x/an
+64,Femme,1772,Bac,Ville moyenne,Rarement,Régulier,2-4x/an,Industriel,3,Apolitique,Pratiquant,<1h/j,2x+/sem,1x/an
+27,Homme,3313,Bac+5,Banlieue,Rarement,Régulier,2-4x/an,Végétarien,3,Apolitique,Agnostique,3h+/j,1x/sem,2-3x/an
+41,Femme,2921,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,4,Centre,Agnostique,<1h/j,2x+/sem,1x/an
+43,Homme,1518,Bac,Campagne,1-2x/sem,Occasionnel,2-4x/an,Végétarien,7,Apolitique,Athée,3h+/j,1x/mois,1x/an
+25,Femme,1027,Doctorat,Campagne,3x+/sem,Occasionnel,1x/an,Bio,5,Centre,Pratiquant,1-3h/j,1x/mois,1x/an
+22,Homme,1561,Bac+5,Campagne,Jamais,Régulier,1x/mois ou +,Équilibré,3,Droite,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+30,Femme,2852,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,Jamais,Industriel,4,Gauche,Croyant non pratiquant,Jamais,1x/mois,1x/an
+39,Femme,1580,Aucun,Ville moyenne,1-2x/sem,Jamais,1x/an,Industriel,7,Gauche,Croyant non pratiquant,<1h/j,1x/mois,4x+/an
+51,Femme,2436,Bac+2,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Industriel,9,Gauche,Agnostique,3h+/j,1x/sem,1x/an
+42,Femme,1547,Doctorat,Grande ville,1-2x/sem,Jamais,1x/an,Équilibré,7,Apolitique,Pratiquant,1-3h/j,1x/mois,4x+/an
+40,Homme,2274,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,10,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,Jamais
+58,Homme,2422,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,3,Gauche,Athée,1-3h/j,1x/mois,2-3x/an
+65,Homme,2788,Bac,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,3,Centre,Pratiquant,1-3h/j,Jamais,2-3x/an
+38,Homme,3146,Bac,Ville moyenne,Jamais,Occasionnel,1x/mois ou +,Équilibré,1,Gauche,Croyant non pratiquant,Jamais,1x/sem,1x/an
+20,Femme,3048,Bac+2,Grande ville,Rarement,Occasionnel,1x/mois ou +,Industriel,10,Centre,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+25,Femme,1575,Bac,Banlieue,3x+/sem,Régulier,2-4x/an,Industriel,9,Centre,Croyant non pratiquant,3h+/j,1x/mois,2-3x/an
+63,Femme,1882,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Bio,8,Droite,Athée,1-3h/j,1x/mois,1x/an
+67,Femme,1061,Bac+5,Ville moyenne,Jamais,Régulier,1x/mois ou +,Bio,5,Apolitique,Agnostique,1-3h/j,1x/mois,4x+/an
+56,Homme,1811,Bac+2,Ville moyenne,Rarement,Régulier,1x/an,Industriel,5,Droite,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+68,Homme,2019,Bac+5,Grande ville,Rarement,Jamais,2-4x/an,Équilibré,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+56,Homme,1676,Bac,Grande ville,Rarement,Régulier,1x/mois ou +,Industriel,1,Centre,Croyant non pratiquant,Jamais,Jamais,4x+/an
+39,Femme,1597,Bac+2,Campagne,3x+/sem,Occasionnel,1x/an,Équilibré,4,Centre,Pratiquant,1-3h/j,1x/sem,2-3x/an
+62,Femme,2825,Aucun,Ville moyenne,1-2x/sem,Régulier,1x/an,Végétarien,10,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+28,Femme,2725,Bac,Grande ville,1-2x/sem,Régulier,2-4x/an,Végétarien,9,Apolitique,Athée,1-3h/j,Jamais,1x/an
+40,Homme,2319,Bac,Grande ville,3x+/sem,Régulier,2-4x/an,Industriel,5,Gauche,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+66,Femme,977,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Industriel,6,Gauche,Pratiquant,1-3h/j,2x+/sem,2-3x/an
+33,Femme,2160,Bac+2,Campagne,Rarement,Régulier,Jamais,Bio,8,Centre,Croyant non pratiquant,<1h/j,2x+/sem,2-3x/an
+69,Femme,1692,Aucun,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Industriel,9,Gauche,Pratiquant,<1h/j,1x/sem,1x/an
+68,Homme,3052,Bac+2,Campagne,Rarement,Occasionnel,2-4x/an,Équilibré,5,Droite,Athée,1-3h/j,2x+/sem,Jamais
+45,Homme,558,Bac+5,Banlieue,3x+/sem,Jamais,1x/mois ou +,Équilibré,7,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+52,Homme,1552,Bac+2,Banlieue,Rarement,Régulier,1x/mois ou +,Bio,8,Gauche,Pratiquant,1-3h/j,Jamais,2-3x/an
+59,Homme,1530,Bac+2,Grande ville,1-2x/sem,Régulier,2-4x/an,Industriel,1,Gauche,Athée,<1h/j,1x/mois,1x/an
+46,Homme,1626,Bac+2,Banlieue,Jamais,Occasionnel,2-4x/an,Équilibré,6,Apolitique,Athée,Jamais,1x/mois,Jamais
+55,Homme,2766,Bac+2,Ville moyenne,Rarement,Occasionnel,1x/an,Équilibré,2,Apolitique,Pratiquant,1-3h/j,1x/mois,2-3x/an
+23,Femme,500,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Équilibré,5,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,4x+/an
+66,Homme,1833,Doctorat,Grande ville,Rarement,Régulier,1x/an,Végétarien,5,Apolitique,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+31,Femme,2680,Bac+5,Grande ville,1-2x/sem,Régulier,2-4x/an,Bio,9,Centre,Athée,1-3h/j,Jamais,1x/an
+46,Femme,2784,Bac+5,Ville moyenne,Rarement,Occasionnel,Jamais,Équilibré,2,Gauche,Athée,1-3h/j,1x/mois,1x/an
+66,Femme,1560,Bac+5,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,4,Centre,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+45,Femme,1456,Bac,Grande ville,3x+/sem,Jamais,1x/an,Équilibré,6,Gauche,Croyant non pratiquant,<1h/j,Jamais,2-3x/an
+27,Femme,2276,Bac+5,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,9,Droite,Agnostique,Jamais,1x/mois,Jamais
+63,Femme,2120,Bac,Campagne,1-2x/sem,Régulier,2-4x/an,Équilibré,8,Centre,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+64,Homme,2055,Bac+2,Ville moyenne,Rarement,Régulier,1x/an,Bio,8,Droite,Pratiquant,1-3h/j,1x/sem,2-3x/an
+21,Femme,500,Bac+2,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,4,Apolitique,Pratiquant,3h+/j,1x/mois,1x/an
+41,Femme,1098,Aucun,Grande ville,Rarement,Occasionnel,2-4x/an,Industriel,2,Gauche,Athée,1-3h/j,1x/mois,1x/an
+19,Femme,1309,Bac+2,Ville moyenne,3x+/sem,Régulier,2-4x/an,Équilibré,4,Droite,Athée,1-3h/j,1x/mois,2-3x/an
+63,Femme,2514,Bac+2,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Équilibré,2,Droite,Athée,1-3h/j,2x+/sem,1x/an
+46,Femme,847,Bac+2,Banlieue,3x+/sem,Occasionnel,1x/an,Industriel,7,Apolitique,Pratiquant,3h+/j,Jamais,2-3x/an
+42,Homme,1162,Aucun,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,9,Apolitique,Athée,1-3h/j,2x+/sem,Jamais
+48,Homme,1876,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Industriel,5,Centre,Pratiquant,<1h/j,1x/sem,Jamais
+64,Homme,969,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Industriel,3,Gauche,Pratiquant,1-3h/j,Jamais,1x/an
+68,Femme,2514,Bac+5,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,3,Gauche,Croyant non pratiquant,3h+/j,2x+/sem,Jamais
+63,Femme,1686,Bac+5,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Bio,9,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+32,Femme,3466,Bac+2,Banlieue,Rarement,Occasionnel,1x/an,Bio,7,Apolitique,Athée,<1h/j,1x/mois,2-3x/an
+55,Femme,1496,Bac+2,Ville moyenne,1-2x/sem,Jamais,1x/an,Équilibré,7,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+50,Femme,1538,Bac+5,Grande ville,Rarement,Régulier,1x/an,Équilibré,10,Centre,Pratiquant,3h+/j,1x/sem,2-3x/an
+67,Homme,2643,Bac+2,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,7,Centre,Croyant non pratiquant,3h+/j,1x/sem,1x/an
+66,Femme,1475,Bac+2,Grande ville,3x+/sem,Régulier,1x/mois ou +,Équilibré,5,Droite,Pratiquant,<1h/j,Jamais,2-3x/an
+25,Femme,3209,Bac,Grande ville,Rarement,Occasionnel,1x/an,Équilibré,5,Centre,Croyant non pratiquant,3h+/j,1x/sem,2-3x/an
+57,Femme,2386,Aucun,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Équilibré,7,Gauche,Athée,3h+/j,2x+/sem,2-3x/an
+33,Homme,1756,Bac+5,Banlieue,1-2x/sem,Occasionnel,Jamais,Industriel,7,Apolitique,Pratiquant,3h+/j,1x/sem,Jamais
+55,Femme,1871,Bac+5,Banlieue,Jamais,Occasionnel,Jamais,Équilibré,10,Gauche,Agnostique,Jamais,1x/sem,Jamais
+61,Homme,4280,Aucun,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Équilibré,1,Gauche,Croyant non pratiquant,3h+/j,1x/sem,Jamais
+58,Homme,2390,Aucun,Banlieue,Rarement,Occasionnel,1x/mois ou +,Industriel,9,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+51,Femme,2120,Aucun,Ville moyenne,Rarement,Jamais,Jamais,Équilibré,8,Gauche,Athée,1-3h/j,1x/mois,Jamais
+23,Femme,1893,Bac,Banlieue,Rarement,Occasionnel,1x/an,Industriel,7,Centre,Athée,Jamais,1x/sem,1x/an
+56,Homme,2829,Bac,Banlieue,Jamais,Régulier,Jamais,Bio,3,Gauche,Athée,<1h/j,Jamais,Jamais
+57,Femme,785,Bac+5,Ville moyenne,3x+/sem,Régulier,Jamais,Équilibré,5,Gauche,Athée,1-3h/j,1x/mois,1x/an
+66,Homme,1855,Bac+2,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Végétarien,3,Centre,Agnostique,1-3h/j,2x+/sem,1x/an
+40,Femme,500,Bac+5,Campagne,Rarement,Occasionnel,1x/mois ou +,Équilibré,5,Droite,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+67,Femme,1573,Doctorat,Ville moyenne,Rarement,Régulier,1x/an,Équilibré,10,Apolitique,Athée,Jamais,1x/sem,2-3x/an
+38,Femme,2678,Bac+2,Campagne,1-2x/sem,Occasionnel,2-4x/an,Bio,5,Apolitique,Agnostique,3h+/j,Jamais,2-3x/an
+52,Femme,3105,Bac+5,Grande ville,Rarement,Jamais,1x/an,Bio,9,Centre,Croyant non pratiquant,1-3h/j,1x/sem,2-3x/an
+64,Homme,2484,Bac+2,Campagne,Rarement,Occasionnel,2-4x/an,Équilibré,3,Gauche,Agnostique,1-3h/j,1x/mois,Jamais
+46,Homme,2511,Bac+5,Banlieue,Rarement,Occasionnel,1x/an,Industriel,7,Gauche,Athée,1-3h/j,Jamais,1x/an
+52,Homme,627,Bac,Grande ville,1-2x/sem,Régulier,1x/an,Bio,3,Gauche,Pratiquant,3h+/j,Jamais,1x/an
+19,Femme,1457,Bac+5,Grande ville,1-2x/sem,Occasionnel,1x/an,Bio,2,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+50,Homme,3179,Aucun,Banlieue,3x+/sem,Occasionnel,2-4x/an,Équilibré,4,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+43,Femme,1580,Bac+2,Campagne,3x+/sem,Occasionnel,1x/an,Industriel,1,Apolitique,Pratiquant,1-3h/j,1x/sem,2-3x/an
+61,Homme,1891,Doctorat,Ville moyenne,3x+/sem,Régulier,2-4x/an,Bio,10,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+49,Femme,1355,Bac,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Végétarien,9,Gauche,Agnostique,3h+/j,Jamais,4x+/an
+35,Homme,1252,Bac,Grande ville,Rarement,Occasionnel,1x/mois ou +,Équilibré,9,Centre,Athée,1-3h/j,1x/mois,2-3x/an
+51,Femme,1623,Bac,Ville moyenne,3x+/sem,Occasionnel,1x/an,Équilibré,1,Droite,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+47,Homme,1471,Bac,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,7,Apolitique,Athée,<1h/j,1x/mois,1x/an
+61,Homme,2766,Bac+5,Ville moyenne,Jamais,Occasionnel,Jamais,Équilibré,5,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+40,Femme,2172,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Bio,8,Centre,Athée,3h+/j,1x/sem,Jamais
+65,Femme,2815,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Végétarien,2,Gauche,Athée,<1h/j,1x/mois,Jamais
+37,Homme,890,Doctorat,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,6,Gauche,Pratiquant,1-3h/j,1x/mois,4x+/an
+63,Homme,2980,Bac,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Végétarien,1,Droite,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+40,Femme,2017,Bac+2,Ville moyenne,3x+/sem,Régulier,1x/an,Bio,4,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+57,Homme,3471,Bac+2,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Bio,4,Apolitique,Croyant non pratiquant,Jamais,Jamais,1x/an
+25,Homme,1957,Bac+5,Grande ville,1-2x/sem,Occasionnel,Jamais,Équilibré,1,Droite,Pratiquant,<1h/j,2x+/sem,1x/an
+31,Homme,805,Bac,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Végétarien,9,Gauche,Pratiquant,<1h/j,1x/mois,Jamais
+40,Femme,3027,Bac+5,Grande ville,Jamais,Régulier,Jamais,Équilibré,6,Apolitique,Agnostique,<1h/j,1x/mois,2-3x/an
+63,Homme,1890,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,2,Droite,Croyant non pratiquant,3h+/j,1x/mois,1x/an
+31,Femme,500,Doctorat,Ville moyenne,Rarement,Occasionnel,2-4x/an,Industriel,2,Centre,Athée,1-3h/j,2x+/sem,1x/an
+19,Femme,2116,Doctorat,Campagne,1-2x/sem,Jamais,2-4x/an,Bio,2,Apolitique,Agnostique,3h+/j,1x/sem,1x/an
+21,Femme,2184,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Végétarien,4,Droite,Athée,3h+/j,1x/mois,1x/an
+41,Homme,2860,Bac+5,Ville moyenne,Rarement,Régulier,1x/mois ou +,Bio,5,Droite,Pratiquant,1-3h/j,1x/mois,1x/an
+68,Femme,500,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,8,Gauche,Agnostique,<1h/j,1x/sem,2-3x/an
+53,Femme,2919,Bac+2,Banlieue,Jamais,Régulier,1x/mois ou +,Équilibré,9,Apolitique,Pratiquant,1-3h/j,1x/sem,Jamais
+26,Femme,1620,Bac+5,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Bio,1,Apolitique,Athée,<1h/j,1x/mois,1x/an
+33,Femme,3540,Bac+5,Grande ville,3x+/sem,Jamais,2-4x/an,Végétarien,3,Apolitique,Croyant non pratiquant,3h+/j,1x/mois,4x+/an
+49,Femme,625,Bac+5,Campagne,1-2x/sem,Jamais,1x/mois ou +,Végétarien,8,Gauche,Agnostique,Jamais,1x/mois,2-3x/an
+49,Femme,2436,Bac+2,Campagne,1-2x/sem,Jamais,2-4x/an,Végétarien,1,Centre,Athée,3h+/j,1x/sem,1x/an
+44,Femme,2329,Bac+2,Ville moyenne,1-2x/sem,Jamais,1x/an,Équilibré,4,Centre,Athée,1-3h/j,Jamais,2-3x/an
+32,Homme,1662,Bac+2,Campagne,Rarement,Occasionnel,1x/an,Industriel,6,Gauche,Athée,Jamais,2x+/sem,2-3x/an
+66,Femme,1380,Bac+2,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,10,Gauche,Pratiquant,1-3h/j,1x/sem,Jamais
+21,Homme,1701,Bac+5,Grande ville,Jamais,Occasionnel,Jamais,Équilibré,8,Centre,Agnostique,1-3h/j,1x/sem,Jamais
+53,Femme,1722,Bac,Campagne,1-2x/sem,Jamais,1x/an,Industriel,4,Droite,Athée,3h+/j,1x/sem,Jamais
+42,Femme,997,Aucun,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,8,Apolitique,Agnostique,1-3h/j,Jamais,2-3x/an
+32,Femme,2794,Bac+2,Grande ville,Rarement,Régulier,1x/an,Équilibré,3,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+29,Femme,1126,Bac+2,Banlieue,3x+/sem,Jamais,1x/mois ou +,Bio,3,Centre,Pratiquant,3h+/j,1x/sem,2-3x/an
+24,Femme,2818,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,1,Droite,Pratiquant,1-3h/j,1x/sem,2-3x/an
+53,Homme,568,Bac+2,Banlieue,Rarement,Jamais,2-4x/an,Bio,7,Apolitique,Agnostique,Jamais,2x+/sem,Jamais
+41,Homme,1858,Bac+2,Banlieue,Jamais,Jamais,1x/an,Bio,2,Apolitique,Croyant non pratiquant,1-3h/j,Jamais,4x+/an
+23,Femme,1870,Bac,Banlieue,Rarement,Jamais,Jamais,Bio,6,Droite,Pratiquant,<1h/j,1x/mois,2-3x/an
+65,Femme,1987,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Équilibré,6,Centre,Pratiquant,1-3h/j,1x/mois,4x+/an
+58,Femme,2765,Bac+2,Grande ville,Jamais,Occasionnel,1x/an,Équilibré,8,Centre,Pratiquant,<1h/j,Jamais,1x/an
+62,Homme,1838,Bac+5,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Agnostique,3h+/j,1x/mois,2-3x/an
+48,Femme,1633,Bac+5,Campagne,Jamais,Occasionnel,2-4x/an,Industriel,1,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+38,Femme,1840,Doctorat,Grande ville,3x+/sem,Occasionnel,2-4x/an,Équilibré,3,Apolitique,Athée,1-3h/j,Jamais,2-3x/an
+28,Femme,2784,Aucun,Grande ville,Jamais,Occasionnel,2-4x/an,Bio,2,Droite,Agnostique,3h+/j,1x/mois,1x/an
+33,Homme,1035,Bac,Banlieue,Rarement,Jamais,2-4x/an,Végétarien,10,Apolitique,Pratiquant,<1h/j,Jamais,4x+/an
+31,Femme,1183,Bac+2,Grande ville,Rarement,Jamais,1x/an,Industriel,10,Centre,Athée,<1h/j,2x+/sem,2-3x/an
+42,Homme,500,Bac+5,Campagne,1-2x/sem,Occasionnel,2-4x/an,Industriel,10,Centre,Agnostique,Jamais,1x/sem,Jamais
+31,Homme,3621,Bac,Ville moyenne,3x+/sem,Occasionnel,2-4x/an,Industriel,1,Droite,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+55,Femme,1072,Aucun,Ville moyenne,3x+/sem,Jamais,2-4x/an,Bio,7,Apolitique,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+35,Femme,500,Bac+5,Grande ville,Jamais,Régulier,1x/an,Industriel,10,Centre,Athée,1-3h/j,1x/sem,1x/an
+31,Homme,1352,Bac+5,Grande ville,Jamais,Occasionnel,1x/mois ou +,Industriel,3,Apolitique,Pratiquant,Jamais,1x/sem,1x/an
+41,Femme,1510,Doctorat,Banlieue,1-2x/sem,Occasionnel,1x/an,Végétarien,3,Droite,Athée,1-3h/j,2x+/sem,1x/an
+68,Homme,3172,Bac,Banlieue,1-2x/sem,Occasionnel,2-4x/an,Industriel,3,Centre,Agnostique,1-3h/j,1x/mois,1x/an
+25,Femme,1628,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,4,Gauche,Pratiquant,1-3h/j,2x+/sem,1x/an
+62,Femme,2233,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Équilibré,4,Gauche,Agnostique,<1h/j,1x/mois,2-3x/an
+42,Femme,567,Bac+2,Banlieue,Jamais,Occasionnel,2-4x/an,Équilibré,1,Apolitique,Athée,1-3h/j,1x/mois,Jamais
+51,Femme,2166,Aucun,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Industriel,7,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+62,Femme,680,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,Jamais,Équilibré,7,Apolitique,Athée,1-3h/j,1x/mois,Jamais
+61,Femme,1749,Doctorat,Ville moyenne,1-2x/sem,Occasionnel,Jamais,Équilibré,3,Apolitique,Athée,Jamais,Jamais,2-3x/an
+45,Homme,1392,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Végétarien,3,Droite,Agnostique,Jamais,Jamais,4x+/an
+41,Femme,2046,Bac+2,Banlieue,1-2x/sem,Occasionnel,Jamais,Bio,6,Centre,Agnostique,<1h/j,2x+/sem,2-3x/an
+35,Homme,2507,Bac+5,Banlieue,1-2x/sem,Régulier,2-4x/an,Bio,8,Apolitique,Croyant non pratiquant,<1h/j,1x/mois,1x/an
+51,Femme,931,Bac,Grande ville,Rarement,Régulier,2-4x/an,Équilibré,5,Droite,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+59,Homme,1090,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Bio,1,Centre,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+20,Homme,2154,Bac+5,Grande ville,Jamais,Jamais,Jamais,Industriel,1,Centre,Agnostique,1-3h/j,1x/sem,1x/an
+29,Homme,2549,Bac+2,Grande ville,Rarement,Occasionnel,1x/an,Bio,4,Apolitique,Agnostique,3h+/j,1x/mois,1x/an
+53,Homme,3133,Doctorat,Grande ville,3x+/sem,Régulier,1x/an,Industriel,6,Apolitique,Pratiquant,3h+/j,Jamais,2-3x/an
+22,Femme,1622,Bac+5,Banlieue,1-2x/sem,Régulier,Jamais,Bio,8,Droite,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+36,Femme,806,Bac,Ville moyenne,Rarement,Régulier,1x/an,Équilibré,5,Gauche,Agnostique,3h+/j,1x/mois,1x/an
+29,Homme,2149,Aucun,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Végétarien,1,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+44,Femme,1364,Bac+2,Campagne,Rarement,Occasionnel,1x/an,Équilibré,10,Apolitique,Athée,Jamais,1x/sem,1x/an
+34,Femme,1260,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/an,Bio,4,Droite,Athée,1-3h/j,1x/mois,1x/an
+60,Femme,3126,Doctorat,Campagne,Jamais,Occasionnel,2-4x/an,Équilibré,7,Apolitique,Agnostique,3h+/j,1x/mois,Jamais
+45,Homme,2494,Bac,Banlieue,3x+/sem,Occasionnel,1x/an,Équilibré,8,Droite,Athée,3h+/j,1x/sem,1x/an
+57,Homme,1417,Bac+5,Ville moyenne,Jamais,Régulier,1x/an,Industriel,5,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,1x/an
+39,Homme,1985,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Industriel,1,Droite,Pratiquant,1-3h/j,1x/sem,2-3x/an
+27,Femme,1931,Doctorat,Grande ville,1-2x/sem,Régulier,1x/an,Industriel,10,Droite,Athée,<1h/j,1x/mois,Jamais
+58,Homme,2132,Bac+5,Grande ville,Jamais,Occasionnel,1x/an,Bio,10,Droite,Pratiquant,3h+/j,1x/sem,Jamais
+23,Femme,1675,Bac,Campagne,Jamais,Occasionnel,1x/an,Industriel,1,Apolitique,Pratiquant,1-3h/j,1x/sem,Jamais
+34,Homme,500,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Industriel,5,Centre,Athée,3h+/j,Jamais,1x/an
+29,Homme,1218,Bac+5,Ville moyenne,Rarement,Régulier,1x/an,Industriel,6,Apolitique,Athée,<1h/j,1x/mois,Jamais
+23,Homme,1574,Bac+5,Grande ville,1-2x/sem,Régulier,1x/an,Bio,7,Gauche,Croyant non pratiquant,<1h/j,1x/mois,2-3x/an
+60,Homme,2022,Doctorat,Ville moyenne,Jamais,Occasionnel,2-4x/an,Industriel,3,Gauche,Agnostique,1-3h/j,2x+/sem,4x+/an
+39,Homme,1134,Bac+5,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,4,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+67,Femme,2149,Doctorat,Campagne,1-2x/sem,Régulier,1x/mois ou +,Bio,6,Centre,Agnostique,1-3h/j,1x/sem,1x/an
+33,Femme,1694,Bac+2,Grande ville,1-2x/sem,Régulier,1x/an,Industriel,1,Apolitique,Croyant non pratiquant,Jamais,2x+/sem,Jamais
+21,Homme,1392,Bac+2,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Bio,7,Apolitique,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+42,Homme,983,Aucun,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,3,Centre,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+50,Homme,2357,Bac+2,Campagne,Rarement,Régulier,1x/an,Bio,4,Centre,Agnostique,<1h/j,2x+/sem,1x/an
+18,Femme,2339,Bac,Grande ville,3x+/sem,Occasionnel,1x/an,Industriel,5,Droite,Pratiquant,Jamais,1x/sem,1x/an
+32,Femme,2640,Doctorat,Grande ville,1-2x/sem,Occasionnel,Jamais,Bio,6,Droite,Croyant non pratiquant,Jamais,1x/mois,Jamais
+34,Homme,2439,Bac,Grande ville,Rarement,Régulier,2-4x/an,Industriel,6,Centre,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+60,Homme,2499,Bac+5,Ville moyenne,Rarement,Régulier,2-4x/an,Équilibré,7,Apolitique,Croyant non pratiquant,Jamais,1x/mois,Jamais
+36,Femme,2305,Bac,Campagne,1-2x/sem,Occasionnel,2-4x/an,Équilibré,5,Droite,Athée,<1h/j,1x/sem,1x/an
+67,Femme,593,Bac+2,Grande ville,Jamais,Occasionnel,2-4x/an,Industriel,8,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+36,Homme,1776,Bac+2,Ville moyenne,3x+/sem,Occasionnel,1x/mois ou +,Bio,5,Apolitique,Athée,<1h/j,1x/sem,4x+/an
+37,Femme,854,Aucun,Grande ville,Rarement,Occasionnel,1x/an,Bio,3,Centre,Croyant non pratiquant,3h+/j,1x/sem,2-3x/an
+18,Femme,3095,Bac,Banlieue,Rarement,Occasionnel,2-4x/an,Équilibré,3,Gauche,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+40,Femme,1988,Doctorat,Ville moyenne,Rarement,Occasionnel,1x/an,Bio,5,Gauche,Pratiquant,1-3h/j,1x/mois,1x/an
+33,Femme,3015,Bac+2,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,5,Centre,Croyant non pratiquant,Jamais,1x/sem,Jamais
+41,Homme,1175,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Bio,7,Droite,Agnostique,<1h/j,1x/sem,2-3x/an
+37,Femme,1926,Bac+5,Grande ville,3x+/sem,Occasionnel,Jamais,Équilibré,6,Apolitique,Agnostique,1-3h/j,1x/sem,1x/an
+32,Femme,2210,Doctorat,Grande ville,3x+/sem,Régulier,1x/mois ou +,Industriel,1,Centre,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+41,Homme,1735,Bac,Grande ville,Rarement,Occasionnel,Jamais,Équilibré,3,Apolitique,Agnostique,1-3h/j,1x/sem,Jamais
+54,Homme,2150,Bac,Ville moyenne,Rarement,Occasionnel,2-4x/an,Équilibré,5,Gauche,Athée,<1h/j,1x/mois,Jamais
+58,Homme,3185,Aucun,Ville moyenne,Jamais,Occasionnel,1x/an,Industriel,7,Gauche,Athée,3h+/j,2x+/sem,4x+/an
+50,Homme,1174,Bac+5,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Bio,3,Gauche,Pratiquant,Jamais,1x/sem,2-3x/an
+49,Femme,500,Bac+2,Grande ville,1-2x/sem,Régulier,Jamais,Bio,8,Droite,Agnostique,Jamais,Jamais,Jamais
+48,Homme,3280,Bac+5,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Bio,9,Droite,Agnostique,3h+/j,1x/mois,Jamais
+32,Homme,1366,Aucun,Grande ville,Jamais,Jamais,2-4x/an,Bio,7,Centre,Athée,<1h/j,1x/sem,1x/an
+18,Homme,2897,Bac+5,Ville moyenne,3x+/sem,Occasionnel,1x/an,Industriel,6,Apolitique,Pratiquant,<1h/j,Jamais,1x/an
+66,Homme,2521,Bac+2,Campagne,Rarement,Occasionnel,1x/an,Équilibré,10,Droite,Croyant non pratiquant,1-3h/j,1x/sem,4x+/an
+29,Homme,1826,Bac,Grande ville,Jamais,Occasionnel,2-4x/an,Industriel,10,Droite,Pratiquant,<1h/j,2x+/sem,2-3x/an
+52,Femme,2304,Bac+2,Banlieue,Jamais,Régulier,Jamais,Équilibré,7,Gauche,Agnostique,1-3h/j,Jamais,Jamais
+54,Femme,1087,Bac+2,Ville moyenne,1-2x/sem,Jamais,1x/mois ou +,Industriel,5,Droite,Pratiquant,3h+/j,1x/sem,1x/an
+65,Femme,2068,Bac,Grande ville,Rarement,Régulier,1x/an,Industriel,2,Apolitique,Athée,<1h/j,Jamais,2-3x/an
+47,Homme,2475,Bac+5,Ville moyenne,1-2x/sem,Occasionnel,1x/an,Végétarien,6,Centre,Athée,1-3h/j,1x/sem,1x/an
+43,Homme,1380,Bac+2,Grande ville,3x+/sem,Occasionnel,2-4x/an,Bio,5,Apolitique,Agnostique,Jamais,1x/mois,Jamais
+28,Femme,1695,Bac+5,Ville moyenne,Rarement,Occasionnel,1x/an,Équilibré,8,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,Jamais
+49,Femme,2250,Bac+5,Grande ville,1-2x/sem,Occasionnel,1x/mois ou +,Bio,5,Apolitique,Pratiquant,1-3h/j,1x/mois,2-3x/an
+19,Homme,3058,Aucun,Grande ville,3x+/sem,Jamais,1x/mois ou +,Industriel,3,Droite,Croyant non pratiquant,1-3h/j,2x+/sem,1x/an
+27,Homme,1997,Bac+2,Grande ville,3x+/sem,Régulier,1x/an,Végétarien,3,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+63,Femme,1655,Bac+5,Campagne,1-2x/sem,Occasionnel,Jamais,Bio,2,Centre,Athée,3h+/j,1x/mois,2-3x/an
+39,Homme,1882,Bac,Ville moyenne,1-2x/sem,Régulier,1x/mois ou +,Industriel,3,Centre,Agnostique,<1h/j,Jamais,1x/an
+26,Femme,2928,Bac+5,Banlieue,Rarement,Régulier,1x/mois ou +,Industriel,2,Droite,Agnostique,<1h/j,1x/sem,1x/an
+47,Homme,1486,Bac+5,Grande ville,3x+/sem,Occasionnel,2-4x/an,Végétarien,10,Gauche,Athée,3h+/j,1x/mois,Jamais
+42,Homme,1759,Bac,Grande ville,1-2x/sem,Régulier,1x/mois ou +,Équilibré,7,Apolitique,Pratiquant,1-3h/j,Jamais,Jamais
+38,Femme,1494,Bac+5,Campagne,Rarement,Occasionnel,2-4x/an,Industriel,8,Apolitique,Pratiquant,3h+/j,1x/mois,4x+/an
+35,Homme,1836,Bac+2,Grande ville,Rarement,Jamais,2-4x/an,Équilibré,6,Centre,Athée,1-3h/j,1x/sem,1x/an
+37,Homme,2170,Bac+5,Grande ville,Jamais,Occasionnel,1x/an,Bio,7,Centre,Agnostique,Jamais,1x/mois,2-3x/an
+68,Homme,2827,Bac+5,Banlieue,1-2x/sem,Occasionnel,1x/mois ou +,Bio,8,Apolitique,Athée,<1h/j,1x/sem,2-3x/an
+57,Femme,500,Bac,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Industriel,2,Centre,Agnostique,<1h/j,Jamais,1x/an
+33,Homme,2444,Aucun,Grande ville,Rarement,Occasionnel,2-4x/an,Végétarien,2,Droite,Athée,<1h/j,1x/mois,2-3x/an
+66,Homme,1286,Bac+2,Ville moyenne,Rarement,Régulier,Jamais,Bio,8,Droite,Pratiquant,1-3h/j,2x+/sem,1x/an
+56,Homme,2474,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Équilibré,8,Centre,Pratiquant,1-3h/j,1x/mois,1x/an
+52,Femme,2991,Bac,Banlieue,Rarement,Occasionnel,1x/mois ou +,Industriel,5,Centre,Agnostique,1-3h/j,1x/mois,4x+/an
+46,Femme,2796,Bac,Grande ville,1-2x/sem,Jamais,1x/mois ou +,Bio,5,Centre,Agnostique,<1h/j,1x/sem,1x/an
+63,Femme,2126,Bac+5,Grande ville,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,6,Centre,Agnostique,3h+/j,1x/sem,1x/an
+47,Femme,2667,Bac+2,Grande ville,Rarement,Régulier,2-4x/an,Industriel,5,Apolitique,Athée,Jamais,1x/mois,Jamais
+69,Homme,1245,Bac+5,Ville moyenne,Jamais,Jamais,1x/an,Équilibré,9,Apolitique,Agnostique,<1h/j,2x+/sem,Jamais
+65,Homme,1945,Bac+2,Banlieue,Rarement,Jamais,2-4x/an,Bio,5,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+20,Femme,3215,Aucun,Grande ville,1-2x/sem,Jamais,2-4x/an,Industriel,10,Apolitique,Athée,1-3h/j,1x/sem,1x/an
+49,Femme,1368,Bac,Ville moyenne,Rarement,Occasionnel,1x/mois ou +,Industriel,8,Apolitique,Athée,3h+/j,Jamais,1x/an
+31,Homme,2157,Bac+5,Banlieue,3x+/sem,Occasionnel,1x/mois ou +,Équilibré,4,Apolitique,Pratiquant,3h+/j,1x/sem,2-3x/an
+43,Femme,1704,Bac,Ville moyenne,1-2x/sem,Régulier,2-4x/an,Équilibré,8,Gauche,Pratiquant,1-3h/j,Jamais,2-3x/an
+22,Femme,1843,Doctorat,Grande ville,3x+/sem,Régulier,2-4x/an,Équilibré,1,Gauche,Pratiquant,<1h/j,2x+/sem,1x/an
+45,Femme,2324,Bac,Ville moyenne,1-2x/sem,Jamais,1x/an,Végétarien,2,Droite,Agnostique,3h+/j,1x/mois,1x/an
+25,Homme,1784,Bac+2,Banlieue,3x+/sem,Régulier,2-4x/an,Équilibré,4,Droite,Croyant non pratiquant,1-3h/j,1x/sem,Jamais
+62,Femme,1997,Bac+5,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,9,Gauche,Croyant non pratiquant,1-3h/j,1x/mois,2-3x/an
+65,Homme,1596,Bac+5,Banlieue,1-2x/sem,Régulier,1x/an,Industriel,7,Gauche,Pratiquant,<1h/j,2x+/sem,Jamais
+50,Femme,539,Bac+5,Grande ville,1-2x/sem,Régulier,1x/an,Industriel,8,Apolitique,Agnostique,1-3h/j,Jamais,2-3x/an
+53,Homme,2154,Bac+5,Grande ville,3x+/sem,Occasionnel,Jamais,Équilibré,1,Apolitique,Agnostique,1-3h/j,1x/mois,2-3x/an
+30,Homme,2351,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Bio,8,Gauche,Athée,1-3h/j,1x/mois,4x+/an
+37,Homme,3105,Bac,Grande ville,3x+/sem,Régulier,2-4x/an,Bio,2,Centre,Athée,1-3h/j,Jamais,2-3x/an
+35,Femme,1894,Bac,Banlieue,Rarement,Occasionnel,Jamais,Bio,7,Apolitique,Agnostique,1-3h/j,1x/sem,1x/an
+68,Homme,884,Doctorat,Banlieue,Rarement,Régulier,1x/an,Bio,1,Droite,Croyant non pratiquant,Jamais,1x/mois,1x/an
+67,Femme,1396,Bac+2,Banlieue,Rarement,Occasionnel,2-4x/an,Équilibré,1,Droite,Pratiquant,Jamais,2x+/sem,Jamais
+37,Homme,2432,Doctorat,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Bio,3,Apolitique,Athée,1-3h/j,1x/mois,4x+/an
+60,Femme,1932,Bac+2,Banlieue,1-2x/sem,Jamais,2-4x/an,Équilibré,5,Apolitique,Croyant non pratiquant,<1h/j,Jamais,1x/an
+50,Femme,2223,Bac+2,Campagne,1-2x/sem,Occasionnel,1x/an,Équilibré,10,Droite,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+38,Femme,1717,Bac+2,Ville moyenne,3x+/sem,Occasionnel,1x/mois ou +,Industriel,8,Gauche,Croyant non pratiquant,3h+/j,2x+/sem,2-3x/an
+63,Femme,3495,Doctorat,Banlieue,3x+/sem,Occasionnel,1x/an,Bio,4,Apolitique,Athée,<1h/j,1x/mois,2-3x/an
+41,Homme,3382,Bac+5,Campagne,Jamais,Régulier,1x/mois ou +,Bio,3,Droite,Agnostique,<1h/j,1x/mois,4x+/an
+45,Homme,1254,Bac+2,Banlieue,Jamais,Régulier,2-4x/an,Industriel,5,Gauche,Agnostique,<1h/j,Jamais,4x+/an
+22,Homme,2727,Aucun,Campagne,Rarement,Régulier,2-4x/an,Industriel,8,Centre,Croyant non pratiquant,1-3h/j,Jamais,1x/an
+47,Homme,2243,Bac+2,Campagne,Jamais,Occasionnel,1x/an,Bio,10,Centre,Pratiquant,1-3h/j,1x/mois,4x+/an
+60,Homme,2010,Bac+5,Grande ville,3x+/sem,Régulier,2-4x/an,Industriel,2,Apolitique,Croyant non pratiquant,<1h/j,1x/sem,1x/an
+41,Femme,1312,Aucun,Grande ville,3x+/sem,Occasionnel,1x/an,Industriel,8,Apolitique,Agnostique,<1h/j,Jamais,2-3x/an
+56,Femme,3297,Bac+5,Ville moyenne,Jamais,Occasionnel,2-4x/an,Bio,10,Droite,Agnostique,1-3h/j,Jamais,2-3x/an
+31,Femme,2932,Bac,Grande ville,1-2x/sem,Occasionnel,2-4x/an,Industriel,9,Apolitique,Agnostique,1-3h/j,1x/sem,2-3x/an
+53,Femme,834,Bac+2,Grande ville,3x+/sem,Jamais,2-4x/an,Équilibré,10,Centre,Croyant non pratiquant,<1h/j,1x/sem,2-3x/an
+53,Femme,3106,Doctorat,Banlieue,Jamais,Régulier,1x/an,Industriel,6,Centre,Athée,1-3h/j,1x/mois,Jamais
+43,Homme,1969,Bac+2,Ville moyenne,1-2x/sem,Occasionnel,Jamais,Bio,9,Apolitique,Athée,<1h/j,1x/mois,4x+/an
+30,Homme,1521,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Équilibré,6,Gauche,Croyant non pratiquant,1-3h/j,1x/sem,1x/an
+57,Femme,1218,Bac+2,Campagne,3x+/sem,Occasionnel,2-4x/an,Équilibré,1,Gauche,Pratiquant,3h+/j,Jamais,1x/an
+38,Femme,2755,Bac+2,Banlieue,1-2x/sem,Occasionnel,1x/mois ou +,Équilibré,9,Centre,Croyant non pratiquant,<1h/j,1x/mois,Jamais
+43,Femme,2319,Aucun,Grande ville,1-2x/sem,Régulier,1x/an,Bio,9,Droite,Athée,1-3h/j,1x/sem,1x/an
+51,Femme,1300,Bac+2,Ville moyenne,Rarement,Occasionnel,2-4x/an,Industriel,5,Gauche,Agnostique,<1h/j,1x/sem,1x/an
+57,Femme,1351,Bac+2,Banlieue,Rarement,Occasionnel,1x/an,Bio,7,Droite,Agnostique,1-3h/j,Jamais,2-3x/an
+31,Homme,1689,Bac,Grande ville,Rarement,Occasionnel,Jamais,Équilibré,1,Gauche,Athée,<1h/j,1x/mois,2-3x/an
+38,Femme,1589,Bac+5,Grande ville,Rarement,Occasionnel,Jamais,Bio,1,Apolitique,Pratiquant,1-3h/j,1x/mois,Jamais
+60,Homme,2422,Bac+2,Ville moyenne,1-2x/sem,Jamais,Jamais,Équilibré,2,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+66,Femme,2302,Bac,Grande ville,Rarement,Occasionnel,2-4x/an,Équilibré,10,Apolitique,Athée,3h+/j,1x/sem,1x/an
+64,Homme,1491,Bac,Campagne,Jamais,Occasionnel,2-4x/an,Industriel,6,Centre,Agnostique,1-3h/j,Jamais,1x/an
+67,Homme,673,Bac+2,Grande ville,Rarement,Jamais,Jamais,Industriel,6,Gauche,Croyant non pratiquant,Jamais,2x+/sem,4x+/an
+36,Homme,932,Bac+2,Campagne,1-2x/sem,Occasionnel,1x/an,Industriel,1,Droite,Athée,3h+/j,1x/mois,2-3x/an
+29,Homme,2696,Bac+5,Grande ville,Rarement,Jamais,Jamais,Bio,7,Apolitique,Athée,<1h/j,1x/sem,2-3x/an
+53,Homme,1204,Doctorat,Campagne,3x+/sem,Occasionnel,1x/an,Industriel,3,Gauche,Agnostique,1-3h/j,1x/sem,1x/an
+47,Homme,2088,Bac,Ville moyenne,1-2x/sem,Occasionnel,2-4x/an,Industriel,9,Apolitique,Pratiquant,<1h/j,Jamais,2-3x/an
+61,Femme,589,Bac+5,Grande ville,1-2x/sem,Régulier,2-4x/an,Équilibré,10,Droite,Athée,Jamais,1x/sem,1x/an
+50,Femme,2317,Bac+2,Grande ville,1-2x/sem,Occasionnel,1x/an,Industriel,9,Apolitique,Pratiquant,<1h/j,2x+/sem,1x/an
+61,Homme,3535,Bac+2,Grande ville,Rarement,Régulier,1x/an,Industriel,7,Droite,Athée,1-3h/j,2x+/sem,2-3x/an
